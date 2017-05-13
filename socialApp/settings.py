@@ -26,8 +26,13 @@ SECRET_KEY = 'i+acxn5(akgsn!sr4^qgf(^m&*@+g1@u^t@=8s@axc41ml*f=s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-DATABASES['default'] = dj_database_url.config()
 # Application definition
+# DATABASES['default'] = dj_database_url.config()
+
+
+# db_from_env = dj_database_url.config(conn_max_age=500)
+# DATABASES = { 'default': dj_database_url.config() }
+
 
 INSTALLED_APPS = (
     'django.contrib.admin',
@@ -74,12 +79,15 @@ WSGI_APPLICATION = 'socialApp.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-#     }
-# }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    }
+}
+
+
+# DATABASES['default'] = dj_database_url.config()
 
 try:
     from .local_settings import *
