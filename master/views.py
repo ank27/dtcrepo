@@ -18,6 +18,6 @@ def home(request):
 
 
 def app_status(request):
-    data = {"status":0}
+    data = {"status":1}
     data = json.dumps(data)
     return HttpResponse(data,content_type= 'application/json')
