@@ -10,4 +10,5 @@ from master import views
 urlpatterns = [
     url(r'^$', views.home),
     url(r'^app_status/$', views.app_status),
+    url(r'^audio_data/$', views.audio_data),
 ]
