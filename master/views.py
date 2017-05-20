@@ -26,9 +26,9 @@ def audio_data(request):
     data = {
         "message": "Success",
         "payload": {
-            "id": 2,
-            "user": "0c28ab80-bc32-430d-b097-4818206be4eb",
-            "filename": "audio_files/file_2.wav",
+            "id": 1,
+            "user": "262f6dc3-4fc6-4c4e-968a-7385d7231421",
+            "filename": "audio_files/file_1.wav",
             "created": "2017-04-09T12:23:56.243460"
         },
         "success": True
