@@ -12,26 +12,12 @@ def home(request):
     except Exception:
         logger.exception("")
 
-    data = {'status': 'success'}
+    data = {'status': 'Success, Welcome to TSA - DTC Application'}
     data = json.dumps(data)
     return HttpResponse(data, content_type='application/json')
 
 
-def app_status(request):
+def bus_stops(request):
     data = {"status":1}
     data = json.dumps(data)
     return HttpResponse(data,content_type= 'application/json')
-
-def audio_data(request):
-    data = {
-        "message": "Success",
-        "payload": {
-            "id": 1,
-            "user": "262f6dc3-4fc6-4c4e-968a-7385d7231421",
-            "filename": "audio_files/file_1.wav",
-            "created": "2017-04-09T12:23:56.243460"
-        },
-        "success": True
-    }
-    data = json.dumps(data)
-    return HttpResponse(data, content_type='application/json')
