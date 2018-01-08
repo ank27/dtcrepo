@@ -17,7 +17,7 @@ def home(request):
     return HttpResponse(data, content_type='application/json')
 
 
-def bus_stops(request):
+def get_bus_status(request):
     datetime = request.datetime
     neareststop = request.neareststop
     finalstop = request.finalstop
