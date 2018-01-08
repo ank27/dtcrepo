@@ -18,6 +18,10 @@ def home(request):
 
 
 def bus_stops(request):
-    data = {"status":1}
+    datetime = request.datetime
+    neareststop = request.neareststop
+    finalstop = request.finalstop
+
+    data = {"status":1, "datetime" : datetime, "neareststop" : neareststop, "finalstop" : finalstop}
     data = json.dumps(data)
     return HttpResponse(data,content_type= 'application/json')

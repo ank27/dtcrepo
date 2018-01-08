@@ -1,0 +1,5498 @@
+[
+  {
+    "route_distance": 12.544,
+    "route_description": "Trilok Puri 27/31 Block - Kamla Market",
+    "first_stop_long": 77.30638,
+    "running_frequency": [
+      {
+        "end_time": "5:45:00 AM",
+        "start_time": "5:00:00 AM"
+      },
+      {
+        "end_time": "5:55:00 AM",
+        "start_time": "5:10:00 AM"
+      },
+      {
+        "end_time": "6:05:00 AM",
+        "start_time": "5:20:00 AM"
+      },
+      {
+        "end_time": "6:15:00 AM",
+        "start_time": "5:30:00 AM"
+      },
+      {
+        "end_time": "6:25:00 AM",
+        "start_time": "5:40:00 AM"
+      },
+      {
+        "end_time": "6:35:00 AM",
+        "start_time": "5:50:00 AM"
+      },
+      {
+        "end_time": "6:45:00 AM",
+        "start_time": "6:00:00 AM"
+      },
+      {
+        "end_time": "6:50:00 AM",
+        "start_time": "6:05:00 AM"
+      },
+      {
+        "end_time": "6:55:00 AM",
+        "start_time": "6:10:00 AM"
+      },
+      {
+        "end_time": "7:00:00 AM",
+        "start_time": "6:15:00 AM"
+      },
+      {
+        "end_time": "7:10:00 AM",
+        "start_time": "6:25:00 AM"
+      },
+      {
+        "end_time": "7:15:00 AM",
+        "start_time": "6:30:00 AM"
+      },
+      {
+        "end_time": "7:20:00 AM",
+        "start_time": "6:35:00 AM"
+      },
+      {
+        "end_time": "7:25:00 AM",
+        "start_time": "6:40:00 AM"
+      },
+      {
+        "end_time": "7:30:00 AM",
+        "start_time": "6:45:00 AM"
+      },
+      {
+        "end_time": "7:35:00 AM",
+        "start_time": "6:50:00 AM"
+      },
+      {
+        "end_time": "7:45:00 AM",
+        "start_time": "7:00:00 AM"
+      },
+      {
+        "end_time": "7:55:00 AM",
+        "start_time": "7:10:00 AM"
+      },
+      {
+        "end_time": "8:05:00 AM",
+        "start_time": "7:20:00 AM"
+      },
+      {
+        "end_time": "8:15:00 AM",
+        "start_time": "7:30:00 AM"
+      },
+      {
+        "end_time": "8:25:00 AM",
+        "start_time": "7:40:00 AM"
+      },
+      {
+        "end_time": "8:30:00 AM",
+        "start_time": "7:45:00 AM"
+      },
+      {
+        "end_time": "8:35:00 AM",
+        "start_time": "7:50:00 AM"
+      },
+      {
+        "end_time": "8:40:00 AM",
+        "start_time": "7:55:00 AM"
+      },
+      {
+        "end_time": "8:45:00 AM",
+        "start_time": "8:00:00 AM"
+      },
+      {
+        "end_time": "8:50:00 AM",
+        "start_time": "8:05:00 AM"
+      },
+      {
+        "end_time": "8:55:00 AM",
+        "start_time": "8:10:00 AM"
+      },
+      {
+        "end_time": "9:00:00 AM",
+        "start_time": "8:15:00 AM"
+      },
+      {
+        "end_time": "9:05:00 AM",
+        "start_time": "8:20:00 AM"
+      },
+      {
+        "end_time": "9:10:00 AM",
+        "start_time": "8:25:00 AM"
+      },
+      {
+        "end_time": "9:15:00 AM",
+        "start_time": "8:30:00 AM"
+      },
+      {
+        "end_time": "9:25:00 AM",
+        "start_time": "8:40:00 AM"
+      },
+      {
+        "end_time": "9:30:00 AM",
+        "start_time": "8:45:00 AM"
+      },
+      {
+        "end_time": "9:35:00 AM",
+        "start_time": "8:50:00 AM"
+      },
+      {
+        "end_time": "9:40:00 AM",
+        "start_time": "8:55:00 AM"
+      },
+      {
+        "end_time": "9:45:00 AM",
+        "start_time": "9:00:00 AM"
+      },
+      {
+        "end_time": "9:50:00 AM",
+        "start_time": "9:05:00 AM"
+      },
+      {
+        "end_time": "9:55:00 AM",
+        "start_time": "9:10:00 AM"
+      },
+      {
+        "end_time": "10:05:00 AM",
+        "start_time": "9:20:00 AM"
+      },
+      {
+        "end_time": "10:10:00 AM",
+        "start_time": "9:25:00 AM"
+      },
+      {
+        "end_time": "10:15:00 AM",
+        "start_time": "9:30:00 AM"
+      },
+      {
+        "end_time": "10:20:00 AM",
+        "start_time": "9:35:00 AM"
+      },
+      {
+        "end_time": "10:25:00 AM",
+        "start_time": "9:40:00 AM"
+      },
+      {
+        "end_time": "10:30:00 AM",
+        "start_time": "9:45:00 AM"
+      },
+      {
+        "end_time": "10:35:00 AM",
+        "start_time": "9:50:00 AM"
+      },
+      {
+        "end_time": "10:40:00 AM",
+        "start_time": "9:55:00 AM"
+      },
+      {
+        "end_time": "10:50:00 AM",
+        "start_time": "10:05:00 AM"
+      },
+      {
+        "end_time": "10:55:00 AM",
+        "start_time": "10:10:00 AM"
+      },
+      {
+        "end_time": "11:05:00 AM",
+        "start_time": "10:20:00 AM"
+      },
+      {
+        "end_time": "11:10:00 AM",
+        "start_time": "10:25:00 AM"
+      },
+      {
+        "end_time": "11:15:00 AM",
+        "start_time": "10:30:00 AM"
+      },
+      {
+        "end_time": "11:20:00 AM",
+        "start_time": "10:35:00 AM"
+      },
+      {
+        "end_time": "11:25:00 AM",
+        "start_time": "10:40:00 AM"
+      },
+      {
+        "end_time": "11:30:00 AM",
+        "start_time": "10:45:00 AM"
+      },
+      {
+        "end_time": "11:35:00 AM",
+        "start_time": "10:50:00 AM"
+      },
+      {
+        "end_time": "11:50:00 AM",
+        "start_time": "11:05:00 AM"
+      },
+      {
+        "end_time": "12:00:00 PM",
+        "start_time": "11:15:00 AM"
+      },
+      {
+        "end_time": "12:05:00 PM",
+        "start_time": "11:20:00 AM"
+      },
+      {
+        "end_time": "12:10:00 PM",
+        "start_time": "11:25:00 AM"
+      },
+      {
+        "end_time": "12:15:00 PM",
+        "start_time": "11:30:00 AM"
+      },
+      {
+        "end_time": "12:20:00 PM",
+        "start_time": "11:35:00 AM"
+      },
+      {
+        "end_time": "12:25:00 PM",
+        "start_time": "11:40:00 AM"
+      },
+      {
+        "end_time": "12:35:00 PM",
+        "start_time": "11:50:00 AM"
+      },
+      {
+        "end_time": "12:41:00 PM",
+        "start_time": "11:56:00 AM"
+      },
+      {
+        "end_time": "12:45:00 PM",
+        "start_time": "12:00:00 PM"
+      },
+      {
+        "end_time": "12:48:00 PM",
+        "start_time": "12:03:00 PM"
+      },
+      {
+        "end_time": "12:50:00 PM",
+        "start_time": "12:05:00 PM"
+      },
+      {
+        "end_time": "12:55:00 PM",
+        "start_time": "12:10:00 PM"
+      },
+      {
+        "end_time": "1:05:00 PM",
+        "start_time": "12:20:00 PM"
+      },
+      {
+        "end_time": "1:10:00 PM",
+        "start_time": "12:25:00 PM"
+      },
+      {
+        "end_time": "1:15:00 PM",
+        "start_time": "12:30:00 PM"
+      },
+      {
+        "end_time": "1:25:00 PM",
+        "start_time": "12:40:00 PM"
+      },
+      {
+        "end_time": "1:30:00 PM",
+        "start_time": "12:45:00 PM"
+      },
+      {
+        "end_time": "1:36:00 PM",
+        "start_time": "12:51:00 PM"
+      },
+      {
+        "end_time": "1:45:00 PM",
+        "start_time": "1:00:00 PM"
+      },
+      {
+        "end_time": "1:50:00 PM",
+        "start_time": "1:05:00 PM"
+      },
+      {
+        "end_time": "1:55:00 PM",
+        "start_time": "1:10:00 PM"
+      },
+      {
+        "end_time": "2:00:00 PM",
+        "start_time": "1:15:00 PM"
+      },
+      {
+        "end_time": "2:05:00 PM",
+        "start_time": "1:20:00 PM"
+      },
+      {
+        "end_time": "2:10:00 PM",
+        "start_time": "1:25:00 PM"
+      },
+      {
+        "end_time": "2:15:00 PM",
+        "start_time": "1:30:00 PM"
+      },
+      {
+        "end_time": "2:20:00 PM",
+        "start_time": "1:35:00 PM"
+      },
+      {
+        "end_time": "2:23:00 PM",
+        "start_time": "1:38:00 PM"
+      },
+      {
+        "end_time": "2:25:00 PM",
+        "start_time": "1:40:00 PM"
+      },
+      {
+        "end_time": "2:30:00 PM",
+        "start_time": "1:45:00 PM"
+      },
+      {
+        "end_time": "2:35:00 PM",
+        "start_time": "1:50:00 PM"
+      },
+      {
+        "end_time": "2:45:00 PM",
+        "start_time": "2:00:00 PM"
+      },
+      {
+        "end_time": "2:50:00 PM",
+        "start_time": "2:05:00 PM"
+      },
+      {
+        "end_time": "2:55:00 PM",
+        "start_time": "2:10:00 PM"
+      },
+      {
+        "end_time": "3:15:00 PM",
+        "start_time": "2:30:00 PM"
+      },
+      {
+        "end_time": "3:20:00 PM",
+        "start_time": "2:35:00 PM"
+      },
+      {
+        "end_time": "3:25:00 PM",
+        "start_time": "2:40:00 PM"
+      },
+      {
+        "end_time": "3:30:00 PM",
+        "start_time": "2:45:00 PM"
+      },
+      {
+        "end_time": "3:40:00 PM",
+        "start_time": "2:55:00 PM"
+      },
+      {
+        "end_time": "3:45:00 PM",
+        "start_time": "3:00:00 PM"
+      },
+      {
+        "end_time": "3:50:00 PM",
+        "start_time": "3:05:00 PM"
+      },
+      {
+        "end_time": "3:55:00 PM",
+        "start_time": "3:10:00 PM"
+      },
+      {
+        "end_time": "4:00:00 PM",
+        "start_time": "3:15:00 PM"
+      },
+      {
+        "end_time": "4:05:00 PM",
+        "start_time": "3:20:00 PM"
+      },
+      {
+        "end_time": "4:10:00 PM",
+        "start_time": "3:25:00 PM"
+      },
+      {
+        "end_time": "4:15:00 PM",
+        "start_time": "3:30:00 PM"
+      },
+      {
+        "end_time": "4:20:00 PM",
+        "start_time": "3:35:00 PM"
+      },
+      {
+        "end_time": "4:25:00 PM",
+        "start_time": "3:40:00 PM"
+      },
+      {
+        "end_time": "4:30:00 PM",
+        "start_time": "3:45:00 PM"
+      },
+      {
+        "end_time": "4:35:00 PM",
+        "start_time": "3:50:00 PM"
+      },
+      {
+        "end_time": "4:40:00 PM",
+        "start_time": "3:55:00 PM"
+      },
+      {
+        "end_time": "4:45:00 PM",
+        "start_time": "4:00:00 PM"
+      },
+      {
+        "end_time": "4:50:00 PM",
+        "start_time": "4:05:00 PM"
+      },
+      {
+        "end_time": "4:55:00 PM",
+        "start_time": "4:10:00 PM"
+      },
+      {
+        "end_time": "5:00:00 PM",
+        "start_time": "4:15:00 PM"
+      },
+      {
+        "end_time": "5:05:00 PM",
+        "start_time": "4:20:00 PM"
+      },
+      {
+        "end_time": "5:10:00 PM",
+        "start_time": "4:25:00 PM"
+      },
+      {
+        "end_time": "5:15:00 PM",
+        "start_time": "4:30:00 PM"
+      },
+      {
+        "end_time": "5:20:00 PM",
+        "start_time": "4:35:00 PM"
+      },
+      {
+        "end_time": "5:25:00 PM",
+        "start_time": "4:40:00 PM"
+      },
+      {
+        "end_time": "5:30:00 PM",
+        "start_time": "4:45:00 PM"
+      },
+      {
+        "end_time": "5:35:00 PM",
+        "start_time": "4:50:00 PM"
+      },
+      {
+        "end_time": "5:40:00 PM",
+        "start_time": "4:55:00 PM"
+      },
+      {
+        "end_time": "5:45:00 PM",
+        "start_time": "5:00:00 PM"
+      },
+      {
+        "end_time": "5:50:00 PM",
+        "start_time": "5:05:00 PM"
+      },
+      {
+        "end_time": "5:55:00 PM",
+        "start_time": "5:10:00 PM"
+      },
+      {
+        "end_time": "6:00:00 PM",
+        "start_time": "5:15:00 PM"
+      },
+      {
+        "end_time": "6:05:00 PM",
+        "start_time": "5:20:00 PM"
+      },
+      {
+        "end_time": "6:10:00 PM",
+        "start_time": "5:25:00 PM"
+      },
+      {
+        "end_time": "6:15:00 PM",
+        "start_time": "5:30:00 PM"
+      },
+      {
+        "end_time": "6:20:00 PM",
+        "start_time": "5:35:00 PM"
+      },
+      {
+        "end_time": "6:25:00 PM",
+        "start_time": "5:40:00 PM"
+      },
+      {
+        "end_time": "6:30:00 PM",
+        "start_time": "5:45:00 PM"
+      },
+      {
+        "end_time": "6:35:00 PM",
+        "start_time": "5:50:00 PM"
+      },
+      {
+        "end_time": "6:40:00 PM",
+        "start_time": "5:55:00 PM"
+      },
+      {
+        "end_time": "6:45:00 PM",
+        "start_time": "6:00:00 PM"
+      },
+      {
+        "end_time": "6:50:00 PM",
+        "start_time": "6:05:00 PM"
+      },
+      {
+        "end_time": "6:55:00 PM",
+        "start_time": "6:10:00 PM"
+      },
+      {
+        "end_time": "7:00:00 PM",
+        "start_time": "6:15:00 PM"
+      },
+      {
+        "end_time": "7:05:00 PM",
+        "start_time": "6:20:00 PM"
+      },
+      {
+        "end_time": "7:10:00 PM",
+        "start_time": "6:25:00 PM"
+      },
+      {
+        "end_time": "7:20:00 PM",
+        "start_time": "6:35:00 PM"
+      },
+      {
+        "end_time": "7:30:00 PM",
+        "start_time": "6:45:00 PM"
+      },
+      {
+        "end_time": "7:35:00 PM",
+        "start_time": "6:50:00 PM"
+      },
+      {
+        "end_time": "7:40:00 PM",
+        "start_time": "6:55:00 PM"
+      },
+      {
+        "end_time": "7:45:00 PM",
+        "start_time": "7:00:00 PM"
+      },
+      {
+        "end_time": "7:50:00 PM",
+        "start_time": "7:05:00 PM"
+      },
+      {
+        "end_time": "7:55:00 PM",
+        "start_time": "7:10:00 PM"
+      },
+      {
+        "end_time": "8:00:00 PM",
+        "start_time": "7:15:00 PM"
+      },
+      {
+        "end_time": "8:05:00 PM",
+        "start_time": "7:20:00 PM"
+      },
+      {
+        "end_time": "8:10:00 PM",
+        "start_time": "7:25:00 PM"
+      },
+      {
+        "end_time": "8:20:00 PM",
+        "start_time": "7:35:00 PM"
+      },
+      {
+        "end_time": "8:30:00 PM",
+        "start_time": "7:45:00 PM"
+      },
+      {
+        "end_time": "8:40:00 PM",
+        "start_time": "7:55:00 PM"
+      },
+      {
+        "end_time": "8:45:00 PM",
+        "start_time": "8:00:00 PM"
+      },
+      {
+        "end_time": "8:50:00 PM",
+        "start_time": "8:05:00 PM"
+      },
+      {
+        "end_time": "8:55:00 PM",
+        "start_time": "8:10:00 PM"
+      },
+      {
+        "end_time": "9:00:00 PM",
+        "start_time": "8:15:00 PM"
+      },
+      {
+        "end_time": "9:05:00 PM",
+        "start_time": "8:20:00 PM"
+      },
+      {
+        "end_time": "9:10:00 PM",
+        "start_time": "8:25:00 PM"
+      },
+      {
+        "end_time": "9:11:00 PM",
+        "start_time": "8:26:00 PM"
+      },
+      {
+        "end_time": "9:18:00 PM",
+        "start_time": "8:33:00 PM"
+      },
+      {
+        "end_time": "9:23:00 PM",
+        "start_time": "8:38:00 PM"
+      },
+      {
+        "end_time": "9:28:00 PM",
+        "start_time": "8:43:00 PM"
+      },
+      {
+        "end_time": "9:31:00 PM",
+        "start_time": "8:46:00 PM"
+      },
+      {
+        "end_time": "9:38:00 PM",
+        "start_time": "8:53:00 PM"
+      },
+      {
+        "end_time": "9:42:00 PM",
+        "start_time": "8:57:00 PM"
+      },
+      {
+        "end_time": "9:45:00 PM",
+        "start_time": "9:00:00 PM"
+      },
+      {
+        "end_time": "9:55:00 PM",
+        "start_time": "9:10:00 PM"
+      },
+      {
+        "end_time": "10:00:00 PM",
+        "start_time": "9:15:00 PM"
+      },
+      {
+        "end_time": "10:10:00 PM",
+        "start_time": "9:25:00 PM"
+      },
+      {
+        "end_time": "10:15:00 PM",
+        "start_time": "9:30:00 PM"
+      },
+      {
+        "end_time": "10:17:00 PM",
+        "start_time": "9:32:00 PM"
+      },
+      {
+        "end_time": "10:20:00 PM",
+        "start_time": "9:35:00 PM"
+      },
+      {
+        "end_time": "10:30:00 PM",
+        "start_time": "9:45:00 PM"
+      },
+      {
+        "end_time": "10:35:00 PM",
+        "start_time": "9:50:00 PM"
+      },
+      {
+        "end_time": "10:40:00 PM",
+        "start_time": "9:55:00 PM"
+      },
+      {
+        "end_time": "10:45:00 PM",
+        "start_time": "10:00:00 PM"
+      },
+      {
+        "end_time": "10:50:00 PM",
+        "start_time": "10:05:00 PM"
+      },
+      {
+        "end_time": "10:55:00 PM",
+        "start_time": "10:10:00 PM"
+      },
+      {
+        "end_time": "11:00:00 PM",
+        "start_time": "10:15:00 PM"
+      },
+      {
+        "end_time": "11:15:00 PM",
+        "start_time": "10:30:00 PM"
+      },
+      {
+        "end_time": "11:20:00 PM",
+        "start_time": "10:35:00 PM"
+      },
+      {
+        "end_time": "11:35:00 PM",
+        "start_time": "10:50:00 PM"
+      },
+      {
+        "end_time": "11:40:00 PM",
+        "start_time": "10:55:00 PM"
+      },
+      {
+        "end_time": "11:55:00 PM",
+        "start_time": "11:10:00 PM"
+      }
+    ],
+    "first_stop_lat": 28.6055917,
+    "last_stop_long": 77.2240533,
+    "stop_details": [
+      {
+        "stop_lat": 28.6055917,
+        "stop_seq": 1,
+        "stop_long": 77.30638,
+        "stop_name": "Trilok Pur 27 /31 Block"
+      },
+      {
+        "stop_lat": 28.608525,
+        "stop_seq": 2,
+        "stop_long": 77.3052017,
+        "stop_name": "Trilok Puri Blk-26(Gurudwara)"
+      },
+      {
+        "stop_lat": 28.61269,
+        "stop_seq": 3,
+        "stop_long": 77.306375,
+        "stop_name": "Trilok Puri 13-Block"
+      },
+      {
+        "stop_lat": 28.61318,
+        "stop_seq": 4,
+        "stop_long": 77.3016317,
+        "stop_name": "Kotla Village"
+      },
+      {
+        "stop_lat": 28.612775,
+        "stop_seq": 5,
+        "stop_long": 77.2977617,
+        "stop_name": "ITI Khichiri Pur"
+      },
+      {
+        "stop_lat": 28.6135867,
+        "stop_seq": 6,
+        "stop_long": 77.293805,
+        "stop_name": "Shashi Garden More"
+      },
+      {
+        "stop_lat": 28.6142883,
+        "stop_seq": 7,
+        "stop_long": 77.2912717,
+        "stop_name": "Pandav Nagar Police Station"
+      },
+      {
+        "stop_lat": 28.6162433,
+        "stop_seq": 8,
+        "stop_long": 77.2881,
+        "stop_name": "Patparganj Crossing"
+      },
+      {
+        "stop_lat": 28.6187467,
+        "stop_seq": 9,
+        "stop_long": 77.28644,
+        "stop_name": "Mother Dairy"
+      },
+      {
+        "stop_lat": 28.6208017,
+        "stop_seq": 10,
+        "stop_long": 77.2851533,
+        "stop_name": "Ganesh Nagar"
+      },
+      {
+        "stop_lat": 28.629275,
+        "stop_seq": 11,
+        "stop_long": 77.2773933,
+        "stop_name": "Shakkar pur School Block"
+      },
+      {
+        "stop_lat": 28.6314469,
+        "stop_seq": 12,
+        "stop_long": 77.2780983,
+        "stop_name": "Laxmi Nagar Xing"
+      },
+      {
+        "stop_lat": 28.6280967,
+        "stop_seq": 13,
+        "stop_long": 77.2612483,
+        "stop_name": "Rainy Well"
+      },
+      {
+        "stop_lat": 28.6279067,
+        "stop_seq": 14,
+        "stop_long": 77.2525783,
+        "stop_name": "Delhi Secretariat"
+      },
+      {
+        "stop_lat": 28.636945,
+        "stop_seq": 15,
+        "stop_long": 77.24704,
+        "stop_name": "ITO Ring Road"
+      },
+      {
+        "stop_lat": 28.6312617,
+        "stop_seq": 16,
+        "stop_long": 77.2522483,
+        "stop_name": "IGI Stadium"
+      },
+      {
+        "stop_lat": 28.6396717,
+        "stop_seq": 17,
+        "stop_long": 77.24392,
+        "stop_name": "Ambedkar Stadium"
+      },
+      {
+        "stop_lat": 28.64004,
+        "stop_seq": 18,
+        "stop_long": 77.2382083,
+        "stop_name": "Delhi Gate"
+      },
+      {
+        "stop_lat": 28.6411133,
+        "stop_seq": 19,
+        "stop_long": 77.2353833,
+        "stop_name": "Delight Cinema"
+      },
+      {
+        "stop_lat": 28.6418217,
+        "stop_seq": 20,
+        "stop_long": 77.2330933,
+        "stop_name": "Turkman Gate"
+      },
+      {
+        "stop_lat": 28.6411,
+        "stop_seq": 21,
+        "stop_long": 77.2298817,
+        "stop_name": "Zakir Hussain College"
+      },
+      {
+        "stop_lat": 28.6419883,
+        "stop_seq": 22,
+        "stop_long": 77.2280667,
+        "stop_name": "Jawahar Lal Nehru Marg"
+      },
+      {
+        "stop_lat": 28.64414,
+        "stop_seq": 23,
+        "stop_long": 77.2240533,
+        "stop_name": "Kamla Market"
+      }
+    ],
+    "last_stop_lat": 28.64414,
+    "route_number": "307-D"
+  },
+  {
+    "route_distance": 10.528,
+    "route_description": "Kamla Market - Trilok Puri 27/31 Block",
+    "first_stop_long": 77.2260367,
+    "running_frequency": [
+      {
+        "end_time": "6:35:00 AM",
+        "start_time": "5:50:00 AM"
+      },
+      {
+        "end_time": "6:45:00 AM",
+        "start_time": "6:00:00 AM"
+      },
+      {
+        "end_time": "6:55:00 AM",
+        "start_time": "6:10:00 AM"
+      },
+      {
+        "end_time": "7:05:00 AM",
+        "start_time": "6:20:00 AM"
+      },
+      {
+        "end_time": "7:15:00 AM",
+        "start_time": "6:30:00 AM"
+      },
+      {
+        "end_time": "7:25:00 AM",
+        "start_time": "6:40:00 AM"
+      },
+      {
+        "end_time": "7:35:00 AM",
+        "start_time": "6:50:00 AM"
+      },
+      {
+        "end_time": "7:40:00 AM",
+        "start_time": "6:55:00 AM"
+      },
+      {
+        "end_time": "7:45:00 AM",
+        "start_time": "7:00:00 AM"
+      },
+      {
+        "end_time": "7:50:00 AM",
+        "start_time": "7:05:00 AM"
+      },
+      {
+        "end_time": "8:00:00 AM",
+        "start_time": "7:15:00 AM"
+      },
+      {
+        "end_time": "8:05:00 AM",
+        "start_time": "7:20:00 AM"
+      },
+      {
+        "end_time": "8:10:00 AM",
+        "start_time": "7:25:00 AM"
+      },
+      {
+        "end_time": "8:15:00 AM",
+        "start_time": "7:30:00 AM"
+      },
+      {
+        "end_time": "8:20:00 AM",
+        "start_time": "7:35:00 AM"
+      },
+      {
+        "end_time": "8:25:00 AM",
+        "start_time": "7:40:00 AM"
+      },
+      {
+        "end_time": "8:35:00 AM",
+        "start_time": "7:50:00 AM"
+      },
+      {
+        "end_time": "8:40:00 AM",
+        "start_time": "7:55:00 AM"
+      },
+      {
+        "end_time": "8:45:00 AM",
+        "start_time": "8:00:00 AM"
+      },
+      {
+        "end_time": "8:55:00 AM",
+        "start_time": "8:10:00 AM"
+      },
+      {
+        "end_time": "9:05:00 AM",
+        "start_time": "8:20:00 AM"
+      },
+      {
+        "end_time": "9:10:00 AM",
+        "start_time": "8:25:00 AM"
+      },
+      {
+        "end_time": "9:15:00 AM",
+        "start_time": "8:30:00 AM"
+      },
+      {
+        "end_time": "9:25:00 AM",
+        "start_time": "8:40:00 AM"
+      },
+      {
+        "end_time": "9:30:00 AM",
+        "start_time": "8:45:00 AM"
+      },
+      {
+        "end_time": "9:35:00 AM",
+        "start_time": "8:50:00 AM"
+      },
+      {
+        "end_time": "9:40:00 AM",
+        "start_time": "8:55:00 AM"
+      },
+      {
+        "end_time": "9:45:00 AM",
+        "start_time": "9:00:00 AM"
+      },
+      {
+        "end_time": "9:50:00 AM",
+        "start_time": "9:05:00 AM"
+      },
+      {
+        "end_time": "9:55:00 AM",
+        "start_time": "9:10:00 AM"
+      },
+      {
+        "end_time": "10:00:00 AM",
+        "start_time": "9:15:00 AM"
+      },
+      {
+        "end_time": "10:05:00 AM",
+        "start_time": "9:20:00 AM"
+      },
+      {
+        "end_time": "10:10:00 AM",
+        "start_time": "9:25:00 AM"
+      },
+      {
+        "end_time": "10:15:00 AM",
+        "start_time": "9:30:00 AM"
+      },
+      {
+        "end_time": "10:20:00 AM",
+        "start_time": "9:35:00 AM"
+      },
+      {
+        "end_time": "10:25:00 AM",
+        "start_time": "9:40:00 AM"
+      },
+      {
+        "end_time": "10:30:00 AM",
+        "start_time": "9:45:00 AM"
+      },
+      {
+        "end_time": "10:35:00 AM",
+        "start_time": "9:50:00 AM"
+      },
+      {
+        "end_time": "10:40:00 AM",
+        "start_time": "9:55:00 AM"
+      },
+      {
+        "end_time": "10:45:00 AM",
+        "start_time": "10:00:00 AM"
+      },
+      {
+        "end_time": "10:55:00 AM",
+        "start_time": "10:10:00 AM"
+      },
+      {
+        "end_time": "10:58:00 AM",
+        "start_time": "10:13:00 AM"
+      },
+      {
+        "end_time": "11:00:00 AM",
+        "start_time": "10:15:00 AM"
+      },
+      {
+        "end_time": "11:05:00 AM",
+        "start_time": "10:20:00 AM"
+      },
+      {
+        "end_time": "11:10:00 AM",
+        "start_time": "10:25:00 AM"
+      },
+      {
+        "end_time": "11:15:00 AM",
+        "start_time": "10:30:00 AM"
+      },
+      {
+        "end_time": "11:20:00 AM",
+        "start_time": "10:35:00 AM"
+      },
+      {
+        "end_time": "11:25:00 AM",
+        "start_time": "10:40:00 AM"
+      },
+      {
+        "end_time": "11:30:00 AM",
+        "start_time": "10:45:00 AM"
+      },
+      {
+        "end_time": "11:40:00 AM",
+        "start_time": "10:55:00 AM"
+      },
+      {
+        "end_time": "11:45:00 AM",
+        "start_time": "11:00:00 AM"
+      },
+      {
+        "end_time": "11:55:00 AM",
+        "start_time": "11:10:00 AM"
+      },
+      {
+        "end_time": "12:00:00 PM",
+        "start_time": "11:15:00 AM"
+      },
+      {
+        "end_time": "12:05:00 PM",
+        "start_time": "11:20:00 AM"
+      },
+      {
+        "end_time": "12:10:00 PM",
+        "start_time": "11:25:00 AM"
+      },
+      {
+        "end_time": "12:20:00 PM",
+        "start_time": "11:35:00 AM"
+      },
+      {
+        "end_time": "12:25:00 PM",
+        "start_time": "11:40:00 AM"
+      },
+      {
+        "end_time": "12:40:00 PM",
+        "start_time": "11:55:00 AM"
+      },
+      {
+        "end_time": "12:50:00 PM",
+        "start_time": "12:05:00 PM"
+      },
+      {
+        "end_time": "12:55:00 PM",
+        "start_time": "12:10:00 PM"
+      },
+      {
+        "end_time": "1:00:00 PM",
+        "start_time": "12:15:00 PM"
+      },
+      {
+        "end_time": "1:05:00 PM",
+        "start_time": "12:20:00 PM"
+      },
+      {
+        "end_time": "1:10:00 PM",
+        "start_time": "12:25:00 PM"
+      },
+      {
+        "end_time": "1:15:00 PM",
+        "start_time": "12:30:00 PM"
+      },
+      {
+        "end_time": "1:25:00 PM",
+        "start_time": "12:40:00 PM"
+      },
+      {
+        "end_time": "1:30:00 PM",
+        "start_time": "12:45:00 PM"
+      },
+      {
+        "end_time": "1:35:00 PM",
+        "start_time": "12:50:00 PM"
+      },
+      {
+        "end_time": "1:45:00 PM",
+        "start_time": "1:00:00 PM"
+      },
+      {
+        "end_time": "2:05:00 PM",
+        "start_time": "1:20:00 PM"
+      },
+      {
+        "end_time": "3:00:00 PM",
+        "start_time": "2:15:00 PM"
+      },
+      {
+        "end_time": "3:15:00 PM",
+        "start_time": "2:30:00 PM"
+      },
+      {
+        "end_time": "3:25:00 PM",
+        "start_time": "2:40:00 PM"
+      },
+      {
+        "end_time": "3:35:00 PM",
+        "start_time": "2:50:00 PM"
+      },
+      {
+        "end_time": "3:45:00 PM",
+        "start_time": "3:00:00 PM"
+      },
+      {
+        "end_time": "4:05:00 PM",
+        "start_time": "3:20:00 PM"
+      },
+      {
+        "end_time": "4:10:00 PM",
+        "start_time": "3:25:00 PM"
+      },
+      {
+        "end_time": "4:15:00 PM",
+        "start_time": "3:30:00 PM"
+      },
+      {
+        "end_time": "4:20:00 PM",
+        "start_time": "3:35:00 PM"
+      },
+      {
+        "end_time": "4:25:00 PM",
+        "start_time": "3:40:00 PM"
+      },
+      {
+        "end_time": "4:30:00 PM",
+        "start_time": "3:45:00 PM"
+      },
+      {
+        "end_time": "4:35:00 PM",
+        "start_time": "3:50:00 PM"
+      },
+      {
+        "end_time": "4:40:00 PM",
+        "start_time": "3:55:00 PM"
+      },
+      {
+        "end_time": "4:45:00 PM",
+        "start_time": "4:00:00 PM"
+      },
+      {
+        "end_time": "4:50:00 PM",
+        "start_time": "4:05:00 PM"
+      },
+      {
+        "end_time": "4:55:00 PM",
+        "start_time": "4:10:00 PM"
+      },
+      {
+        "end_time": "5:00:00 PM",
+        "start_time": "4:15:00 PM"
+      },
+      {
+        "end_time": "5:05:00 PM",
+        "start_time": "4:20:00 PM"
+      },
+      {
+        "end_time": "5:10:00 PM",
+        "start_time": "4:25:00 PM"
+      },
+      {
+        "end_time": "5:15:00 PM",
+        "start_time": "4:30:00 PM"
+      },
+      {
+        "end_time": "5:20:00 PM",
+        "start_time": "4:35:00 PM"
+      },
+      {
+        "end_time": "5:25:00 PM",
+        "start_time": "4:40:00 PM"
+      },
+      {
+        "end_time": "5:30:00 PM",
+        "start_time": "4:45:00 PM"
+      },
+      {
+        "end_time": "5:35:00 PM",
+        "start_time": "4:50:00 PM"
+      },
+      {
+        "end_time": "5:40:00 PM",
+        "start_time": "4:55:00 PM"
+      },
+      {
+        "end_time": "5:45:00 PM",
+        "start_time": "5:00:00 PM"
+      },
+      {
+        "end_time": "5:50:00 PM",
+        "start_time": "5:05:00 PM"
+      },
+      {
+        "end_time": "5:55:00 PM",
+        "start_time": "5:10:00 PM"
+      },
+      {
+        "end_time": "6:00:00 PM",
+        "start_time": "5:15:00 PM"
+      },
+      {
+        "end_time": "6:05:00 PM",
+        "start_time": "5:20:00 PM"
+      },
+      {
+        "end_time": "6:10:00 PM",
+        "start_time": "5:25:00 PM"
+      },
+      {
+        "end_time": "6:15:00 PM",
+        "start_time": "5:30:00 PM"
+      },
+      {
+        "end_time": "6:20:00 PM",
+        "start_time": "5:35:00 PM"
+      },
+      {
+        "end_time": "6:25:00 PM",
+        "start_time": "5:40:00 PM"
+      },
+      {
+        "end_time": "6:30:00 PM",
+        "start_time": "5:45:00 PM"
+      },
+      {
+        "end_time": "6:35:00 PM",
+        "start_time": "5:50:00 PM"
+      },
+      {
+        "end_time": "6:40:00 PM",
+        "start_time": "5:55:00 PM"
+      },
+      {
+        "end_time": "6:45:00 PM",
+        "start_time": "6:00:00 PM"
+      },
+      {
+        "end_time": "6:50:00 PM",
+        "start_time": "6:05:00 PM"
+      },
+      {
+        "end_time": "6:55:00 PM",
+        "start_time": "6:10:00 PM"
+      },
+      {
+        "end_time": "7:00:00 PM",
+        "start_time": "6:15:00 PM"
+      },
+      {
+        "end_time": "7:05:00 PM",
+        "start_time": "6:20:00 PM"
+      },
+      {
+        "end_time": "7:10:00 PM",
+        "start_time": "6:25:00 PM"
+      },
+      {
+        "end_time": "7:15:00 PM",
+        "start_time": "6:30:00 PM"
+      },
+      {
+        "end_time": "7:20:00 PM",
+        "start_time": "6:35:00 PM"
+      },
+      {
+        "end_time": "7:25:00 PM",
+        "start_time": "6:40:00 PM"
+      },
+      {
+        "end_time": "7:30:00 PM",
+        "start_time": "6:45:00 PM"
+      },
+      {
+        "end_time": "7:35:00 PM",
+        "start_time": "6:50:00 PM"
+      },
+      {
+        "end_time": "7:40:00 PM",
+        "start_time": "6:55:00 PM"
+      },
+      {
+        "end_time": "7:45:00 PM",
+        "start_time": "7:00:00 PM"
+      },
+      {
+        "end_time": "7:50:00 PM",
+        "start_time": "7:05:00 PM"
+      },
+      {
+        "end_time": "7:55:00 PM",
+        "start_time": "7:10:00 PM"
+      },
+      {
+        "end_time": "8:00:00 PM",
+        "start_time": "7:15:00 PM"
+      },
+      {
+        "end_time": "8:10:00 PM",
+        "start_time": "7:25:00 PM"
+      },
+      {
+        "end_time": "8:20:00 PM",
+        "start_time": "7:35:00 PM"
+      },
+      {
+        "end_time": "8:25:00 PM",
+        "start_time": "7:40:00 PM"
+      },
+      {
+        "end_time": "8:30:00 PM",
+        "start_time": "7:45:00 PM"
+      },
+      {
+        "end_time": "8:35:00 PM",
+        "start_time": "7:50:00 PM"
+      },
+      {
+        "end_time": "8:40:00 PM",
+        "start_time": "7:55:00 PM"
+      },
+      {
+        "end_time": "8:45:00 PM",
+        "start_time": "8:00:00 PM"
+      },
+      {
+        "end_time": "8:50:00 PM",
+        "start_time": "8:05:00 PM"
+      },
+      {
+        "end_time": "8:55:00 PM",
+        "start_time": "8:10:00 PM"
+      },
+      {
+        "end_time": "9:00:00 PM",
+        "start_time": "8:15:00 PM"
+      },
+      {
+        "end_time": "9:10:00 PM",
+        "start_time": "8:25:00 PM"
+      },
+      {
+        "end_time": "9:20:00 PM",
+        "start_time": "8:35:00 PM"
+      },
+      {
+        "end_time": "9:30:00 PM",
+        "start_time": "8:45:00 PM"
+      },
+      {
+        "end_time": "9:35:00 PM",
+        "start_time": "8:50:00 PM"
+      },
+      {
+        "end_time": "9:40:00 PM",
+        "start_time": "8:55:00 PM"
+      },
+      {
+        "end_time": "9:45:00 PM",
+        "start_time": "9:00:00 PM"
+      },
+      {
+        "end_time": "9:50:00 PM",
+        "start_time": "9:05:00 PM"
+      },
+      {
+        "end_time": "9:55:00 PM",
+        "start_time": "9:10:00 PM"
+      },
+      {
+        "end_time": "10:00:00 PM",
+        "start_time": "9:15:00 PM"
+      },
+      {
+        "end_time": "10:05:00 PM",
+        "start_time": "9:20:00 PM"
+      },
+      {
+        "end_time": "10:15:00 PM",
+        "start_time": "9:30:00 PM"
+      },
+      {
+        "end_time": "10:25:00 PM",
+        "start_time": "9:40:00 PM"
+      },
+      {
+        "end_time": "10:35:00 PM",
+        "start_time": "9:50:00 PM"
+      },
+      {
+        "end_time": "10:45:00 PM",
+        "start_time": "10:00:00 PM"
+      },
+      {
+        "end_time": "10:55:00 PM",
+        "start_time": "10:10:00 PM"
+      },
+      {
+        "end_time": "11:05:00 PM",
+        "start_time": "10:20:00 PM"
+      }
+    ],
+    "first_stop_lat": 28.64302,
+    "last_stop_long": 77.3062217,
+    "stop_details": [
+      {
+        "stop_lat": 28.64302,
+        "stop_seq": 1,
+        "stop_long": 77.2260367,
+        "stop_name": "Kamla Market"
+      },
+      {
+        "stop_lat": 28.642065,
+        "stop_seq": 2,
+        "stop_long": 77.2281417,
+        "stop_name": "Jawahar Lal Nehru Marg"
+      },
+      {
+        "stop_lat": 28.641165,
+        "stop_seq": 3,
+        "stop_long": 77.2300467,
+        "stop_name": "Zakir Hussain College"
+      },
+      {
+        "stop_lat": 28.6419633,
+        "stop_seq": 4,
+        "stop_long": 77.23273,
+        "stop_name": "Turkman Gate"
+      },
+      {
+        "stop_lat": 28.6411917,
+        "stop_seq": 5,
+        "stop_long": 77.235055,
+        "stop_name": "Delight Cinema"
+      },
+      {
+        "stop_lat": 28.6407833,
+        "stop_seq": 6,
+        "stop_long": 77.2386717,
+        "stop_name": "Delhi Gate"
+      },
+      {
+        "stop_lat": 28.6397917,
+        "stop_seq": 7,
+        "stop_long": 77.2435617,
+        "stop_name": "Ambedkar Stadium"
+      },
+      {
+        "stop_lat": 28.63332,
+        "stop_seq": 8,
+        "stop_long": 77.2470617,
+        "stop_name": "IGI Stadium"
+      },
+      {
+        "stop_lat": 28.628677,
+        "stop_seq": 9,
+        "stop_long": 77.2470483,
+        "stop_name": "ITO Ring Road"
+      },
+      {
+        "stop_lat": 28.6281733,
+        "stop_seq": 10,
+        "stop_long": 77.2514567,
+        "stop_name": "Delhi Secretariat"
+      },
+      {
+        "stop_lat": 28.6282833,
+        "stop_seq": 11,
+        "stop_long": 77.2603133,
+        "stop_name": "Rainy Well"
+      },
+      {
+        "stop_lat": 28.6298417,
+        "stop_seq": 12,
+        "stop_long": 77.2769417,
+        "stop_name": "Laxmi Nagar Xing"
+      },
+      {
+        "stop_lat": 28.6272033,
+        "stop_seq": 13,
+        "stop_long": 77.27951,
+        "stop_name": "Shakkar pur School Block"
+      },
+      {
+        "stop_lat": 28.6210767,
+        "stop_seq": 14,
+        "stop_long": 77.285095,
+        "stop_name": "Ganesh Nagar"
+      },
+      {
+        "stop_lat": 28.6191767,
+        "stop_seq": 15,
+        "stop_long": 77.28628,
+        "stop_name": "Mother Dairy"
+      },
+      {
+        "stop_lat": 28.6165017,
+        "stop_seq": 16,
+        "stop_long": 77.287995,
+        "stop_name": "Patparganj Crossing"
+      },
+      {
+        "stop_lat": 28.614755,
+        "stop_seq": 17,
+        "stop_long": 77.2899083,
+        "stop_name": "Pandav Nagar Police Station"
+      },
+      {
+        "stop_lat": 28.6135683,
+        "stop_seq": 18,
+        "stop_long": 77.293945,
+        "stop_name": "Shashi Garden More"
+      },
+      {
+        "stop_lat": 28.6129233,
+        "stop_seq": 19,
+        "stop_long": 77.297465,
+        "stop_name": "ITI Khichiri Pur"
+      },
+      {
+        "stop_lat": 28.6132083,
+        "stop_seq": 20,
+        "stop_long": 77.30159,
+        "stop_name": "Kotla Village"
+      },
+      {
+        "stop_lat": 28.6126867,
+        "stop_seq": 21,
+        "stop_long": 77.30638,
+        "stop_name": "Trilok Puri 13-Block"
+      },
+      {
+        "stop_lat": 28.6082383,
+        "stop_seq": 22,
+        "stop_long": 77.3053883,
+        "stop_name": "Trilok Puri Blk-26(Gurudwara)"
+      },
+      {
+        "stop_lat": 28.6063183,
+        "stop_seq": 23,
+        "stop_long": 77.3062217,
+        "stop_name": "Trilok Pur 27 /31 Block"
+      }
+    ],
+    "last_stop_lat": 28.6063183,
+    "route_number": "307-U"
+  },
+  {
+    "route_distance": 22.124,
+    "route_description": "Badar Pur Border - Mori Gate Terminal",
+    "first_stop_long": 77.3023639,
+    "running_frequency": [
+      {
+        "end_time": "5:57:00 AM",
+        "start_time": "4:57:00 AM"
+      },
+      {
+        "end_time": "7:42:00 AM",
+        "start_time": "6:42:00 AM"
+      },
+      {
+        "end_time": "8:10:00 AM",
+        "start_time": "7:10:00 AM"
+      },
+      {
+        "end_time": "8:38:00 AM",
+        "start_time": "7:38:00 AM"
+      },
+      {
+        "end_time": "9:00:00 AM",
+        "start_time": "8:00:00 AM"
+      },
+      {
+        "end_time": "9:06:00 AM",
+        "start_time": "8:06:00 AM"
+      },
+      {
+        "end_time": "9:15:00 AM",
+        "start_time": "8:15:00 AM"
+      },
+      {
+        "end_time": "9:20:00 AM",
+        "start_time": "8:20:00 AM"
+      },
+      {
+        "end_time": "9:34:00 AM",
+        "start_time": "8:34:00 AM"
+      },
+      {
+        "end_time": "9:38:00 AM",
+        "start_time": "8:38:00 AM"
+      },
+      {
+        "end_time": "9:41:00 AM",
+        "start_time": "8:41:00 AM"
+      },
+      {
+        "end_time": "10:00:00 AM",
+        "start_time": "9:00:00 AM"
+      },
+      {
+        "end_time": "10:14:00 AM",
+        "start_time": "9:14:00 AM"
+      },
+      {
+        "end_time": "11:00:00 AM",
+        "start_time": "10:00:00 AM"
+      },
+      {
+        "end_time": "11:26:00 AM",
+        "start_time": "10:26:00 AM"
+      },
+      {
+        "end_time": "11:54:00 AM",
+        "start_time": "10:54:00 AM"
+      },
+      {
+        "end_time": "12:22:00 PM",
+        "start_time": "11:22:00 AM"
+      },
+      {
+        "end_time": "12:40:00 PM",
+        "start_time": "11:40:00 AM"
+      },
+      {
+        "end_time": "1:00:00 PM",
+        "start_time": "12:00:00 PM"
+      },
+      {
+        "end_time": "1:04:00 PM",
+        "start_time": "12:04:00 PM"
+      },
+      {
+        "end_time": "1:20:00 PM",
+        "start_time": "12:20:00 PM"
+      },
+      {
+        "end_time": "1:35:00 PM",
+        "start_time": "12:35:00 PM"
+      },
+      {
+        "end_time": "1:40:00 PM",
+        "start_time": "12:40:00 PM"
+      },
+      {
+        "end_time": "1:54:00 PM",
+        "start_time": "12:54:00 PM"
+      },
+      {
+        "end_time": "3:59:00 PM",
+        "start_time": "2:59:00 PM"
+      },
+      {
+        "end_time": "4:13:00 PM",
+        "start_time": "3:13:00 PM"
+      },
+      {
+        "end_time": "4:27:00 PM",
+        "start_time": "3:27:00 PM"
+      },
+      {
+        "end_time": "4:50:00 PM",
+        "start_time": "3:50:00 PM"
+      },
+      {
+        "end_time": "4:55:00 PM",
+        "start_time": "3:55:00 PM"
+      },
+      {
+        "end_time": "5:10:00 PM",
+        "start_time": "4:10:00 PM"
+      },
+      {
+        "end_time": "5:23:00 PM",
+        "start_time": "4:23:00 PM"
+      },
+      {
+        "end_time": "5:30:00 PM",
+        "start_time": "4:30:00 PM"
+      },
+      {
+        "end_time": "5:45:00 PM",
+        "start_time": "4:45:00 PM"
+      },
+      {
+        "end_time": "5:51:00 PM",
+        "start_time": "4:51:00 PM"
+      },
+      {
+        "end_time": "5:58:00 PM",
+        "start_time": "4:58:00 PM"
+      },
+      {
+        "end_time": "6:05:00 PM",
+        "start_time": "5:05:00 PM"
+      },
+      {
+        "end_time": "6:35:00 PM",
+        "start_time": "5:35:00 PM"
+      },
+      {
+        "end_time": "6:42:00 PM",
+        "start_time": "5:42:00 PM"
+      },
+      {
+        "end_time": "7:43:00 PM",
+        "start_time": "6:43:00 PM"
+      },
+      {
+        "end_time": "7:57:00 PM",
+        "start_time": "6:57:00 PM"
+      },
+      {
+        "end_time": "8:11:00 PM",
+        "start_time": "7:11:00 PM"
+      },
+      {
+        "end_time": "8:30:00 PM",
+        "start_time": "7:30:00 PM"
+      },
+      {
+        "end_time": "8:39:00 PM",
+        "start_time": "7:39:00 PM"
+      },
+      {
+        "end_time": "8:50:00 PM",
+        "start_time": "7:50:00 PM"
+      },
+      {
+        "end_time": "9:07:00 PM",
+        "start_time": "8:07:00 PM"
+      },
+      {
+        "end_time": "9:10:00 PM",
+        "start_time": "8:10:00 PM"
+      },
+      {
+        "end_time": "9:30:00 PM",
+        "start_time": "8:30:00 PM"
+      },
+      {
+        "end_time": "9:35:00 PM",
+        "start_time": "8:35:00 PM"
+      },
+      {
+        "end_time": "9:48:00 PM",
+        "start_time": "8:48:00 PM"
+      },
+      {
+        "end_time": "10:15:00 PM",
+        "start_time": "9:15:00 PM"
+      },
+      {
+        "end_time": "10:22:00 PM",
+        "start_time": "9:22:00 PM"
+      }
+    ],
+    "first_stop_lat": 28.4965083,
+    "last_stop_long": 77.2247527,
+    "stop_details": [
+      {
+        "stop_lat": 28.4965083,
+        "stop_seq": 1,
+        "stop_long": 77.3023639,
+        "stop_name": "Badarpur Border"
+      },
+      {
+        "stop_lat": 28.4978817,
+        "stop_seq": 2,
+        "stop_long": 77.30231,
+        "stop_name": "Jaitpur X-ing"
+      },
+      {
+        "stop_lat": 28.5019408,
+        "stop_seq": 3,
+        "stop_long": 77.3001512,
+        "stop_name": "Badarpur"
+      },
+      {
+        "stop_lat": 28.5070974,
+        "stop_seq": 4,
+        "stop_long": 77.2999061,
+        "stop_name": "Power House Badarpur"
+      },
+      {
+        "stop_lat": 28.5129901,
+        "stop_seq": 5,
+        "stop_long": 77.2975031,
+        "stop_name": "Onida Factory"
+      },
+      {
+        "stop_lat": 28.5148109,
+        "stop_seq": 6,
+        "stop_long": 77.2967342,
+        "stop_name": "Ali Village"
+      },
+      {
+        "stop_lat": 28.519295,
+        "stop_seq": 7,
+        "stop_long": 77.295025,
+        "stop_name": "Haldiram"
+      },
+      {
+        "stop_lat": 28.5279108,
+        "stop_seq": 8,
+        "stop_long": 77.2891145,
+        "stop_name": "Madanpur X-ing"
+      },
+      {
+        "stop_lat": 28.5319486,
+        "stop_seq": 9,
+        "stop_long": 77.2870099,
+        "stop_name": "Sarita Vihar"
+      },
+      {
+        "stop_lat": 28.5393466,
+        "stop_seq": 10,
+        "stop_long": 77.2826637,
+        "stop_name": "Apollo Hospital"
+      },
+      {
+        "stop_lat": 28.5436379,
+        "stop_seq": 11,
+        "stop_long": 77.2793263,
+        "stop_name": "Harkesh Nagar"
+      },
+      {
+        "stop_lat": 28.5470769,
+        "stop_seq": 12,
+        "stop_long": 77.2766124,
+        "stop_name": "Okhla Tank"
+      },
+      {
+        "stop_lat": 28.5509918,
+        "stop_seq": 13,
+        "stop_long": 77.2743489,
+        "stop_name": "CRRI"
+      },
+      {
+        "stop_lat": 28.5547261,
+        "stop_seq": 14,
+        "stop_long": 77.2713063,
+        "stop_name": "Sukhdev Vihar Depot"
+      },
+      {
+        "stop_lat": 28.5576846,
+        "stop_seq": 15,
+        "stop_long": 77.2690828,
+        "stop_name": "Kalkaji Mode"
+      },
+      {
+        "stop_lat": 28.5614173,
+        "stop_seq": 16,
+        "stop_long": 77.2663603,
+        "stop_name": "Ishwar Nagar-2"
+      },
+      {
+        "stop_lat": 28.5732161,
+        "stop_seq": 17,
+        "stop_long": 77.2576385,
+        "stop_name": "Ashram"
+      },
+      {
+        "stop_lat": 28.5827482,
+        "stop_seq": 18,
+        "stop_long": 77.2512395,
+        "stop_name": "Bhogal"
+      },
+      {
+        "stop_lat": 28.5891107,
+        "stop_seq": 19,
+        "stop_long": 77.2463896,
+        "stop_name": "Hazrat Nizamuddin Extn"
+      },
+      {
+        "stop_lat": 28.5916534,
+        "stop_seq": 20,
+        "stop_long": 77.2446111,
+        "stop_name": "P S Nizamuddin"
+      },
+      {
+        "stop_lat": 28.59871074,
+        "stop_seq": 21,
+        "stop_long": 77.2408675,
+        "stop_name": "D.P.S school"
+      },
+      {
+        "stop_lat": 28.60216777,
+        "stop_seq": 22,
+        "stop_long": 77.24066567,
+        "stop_name": "Sunder Nagar Market"
+      },
+      {
+        "stop_lat": 28.6082467,
+        "stop_seq": 23,
+        "stop_long": 77.2400125,
+        "stop_name": "Zoo"
+      },
+      {
+        "stop_lat": 28.6113141,
+        "stop_seq": 24,
+        "stop_long": 77.2399748,
+        "stop_name": "National Stadium"
+      },
+      {
+        "stop_lat": 28.6153267,
+        "stop_seq": 25,
+        "stop_long": 77.240178,
+        "stop_name": "ITPO Office"
+      },
+      {
+        "stop_lat": 28.6183497,
+        "stop_seq": 26,
+        "stop_long": 77.2402594,
+        "stop_name": "Pragati Maidan"
+      },
+      {
+        "stop_lat": 28.6212005,
+        "stop_seq": 27,
+        "stop_long": 77.2404307,
+        "stop_name": "Supreme Court"
+      },
+      {
+        "stop_lat": 28.6288534,
+        "stop_seq": 28,
+        "stop_long": 77.2411783,
+        "stop_name": "ITO BSZ Marg - Lala R.C. Aggarwal Chowk "
+      },
+      {
+        "stop_lat": 28.633856,
+        "stop_seq": 29,
+        "stop_long": 77.2408219,
+        "stop_name": "Express Building"
+      },
+      {
+        "stop_lat": 28.6371062,
+        "stop_seq": 30,
+        "stop_long": 77.2408593,
+        "stop_name": "Delhi Gate"
+      },
+      {
+        "stop_lat": 28.647794,
+        "stop_seq": 31,
+        "stop_long": 77.2401389,
+        "stop_name": "Darya Ganj"
+      },
+      {
+        "stop_lat": 28.6512234,
+        "stop_seq": 32,
+        "stop_long": 77.2379126,
+        "stop_name": "Jama Masjid"
+      },
+      {
+        "stop_lat": 28.6538095,
+        "stop_seq": 33,
+        "stop_long": 77.2364109,
+        "stop_name": "Red Fort"
+      },
+      {
+        "stop_lat": 28.6620517,
+        "stop_seq": 34,
+        "stop_long": 77.2348433,
+        "stop_name": "GPO Kashmere Gate"
+      },
+      {
+        "stop_lat": 28.6653665,
+        "stop_seq": 35,
+        "stop_long": 77.2301345,
+        "stop_name": "GGS IP University"
+      },
+      {
+        "stop_lat": 28.6714567,
+        "stop_seq": 36,
+        "stop_long": 77.2311117,
+        "stop_name": "ISBT K.Gate"
+      },
+      {
+        "stop_lat": 28.6683775,
+        "stop_seq": 37,
+        "stop_long": 77.2258912,
+        "stop_name": "I.S.B.T Nityanand Marg"
+      },
+      {
+        "stop_lat": 28.667991,
+        "stop_seq": 38,
+        "stop_long": 77.2247527,
+        "stop_name": "Mori Gate terminal"
+      }
+    ],
+    "last_stop_lat": 28.667991,
+    "route_number": "405-D"
+  },
+  {
+    "route_distance": 142.276,
+    "route_description": "Mori Gate Terminal - Badar Pur Border",
+    "first_stop_long": 77.222017,
+    "running_frequency": [
+      {
+        "end_time": "7:20:00 AM",
+        "start_time": "6:20:00 AM"
+      },
+      {
+        "end_time": "7:35:00 AM",
+        "start_time": "6:35:00 AM"
+      },
+      {
+        "end_time": "7:40:00 AM",
+        "start_time": "6:40:00 AM"
+      },
+      {
+        "end_time": "8:00:00 AM",
+        "start_time": "7:00:00 AM"
+      },
+      {
+        "end_time": "8:20:00 AM",
+        "start_time": "7:20:00 AM"
+      },
+      {
+        "end_time": "8:34:00 AM",
+        "start_time": "7:34:00 AM"
+      },
+      {
+        "end_time": "9:20:00 AM",
+        "start_time": "8:20:00 AM"
+      },
+      {
+        "end_time": "9:34:00 AM",
+        "start_time": "8:34:00 AM"
+      },
+      {
+        "end_time": "9:48:00 AM",
+        "start_time": "8:48:00 AM"
+      },
+      {
+        "end_time": "10:16:00 AM",
+        "start_time": "9:16:00 AM"
+      },
+      {
+        "end_time": "10:40:00 AM",
+        "start_time": "9:40:00 AM"
+      },
+      {
+        "end_time": "10:44:00 AM",
+        "start_time": "9:44:00 AM"
+      },
+      {
+        "end_time": "10:58:00 AM",
+        "start_time": "9:58:00 AM"
+      },
+      {
+        "end_time": "11:00:00 AM",
+        "start_time": "10:00:00 AM"
+      },
+      {
+        "end_time": "11:12:00 AM",
+        "start_time": "10:12:00 AM"
+      },
+      {
+        "end_time": "11:15:00 AM",
+        "start_time": "10:15:00 AM"
+      },
+      {
+        "end_time": "11:20:00 AM",
+        "start_time": "10:20:00 AM"
+      },
+      {
+        "end_time": "11:40:00 AM",
+        "start_time": "10:40:00 AM"
+      },
+      {
+        "end_time": "11:47:00 AM",
+        "start_time": "10:47:00 AM"
+      },
+      {
+        "end_time": "11:55:00 AM",
+        "start_time": "10:55:00 AM"
+      },
+      {
+        "end_time": "12:40:00 PM",
+        "start_time": "11:40:00 AM"
+      },
+      {
+        "end_time": "1:04:00 PM",
+        "start_time": "12:04:00 PM"
+      },
+      {
+        "end_time": "1:32:00 PM",
+        "start_time": "12:32:00 PM"
+      },
+      {
+        "end_time": "2:00:00 PM",
+        "start_time": "1:00:00 PM"
+      },
+      {
+        "end_time": "2:42:00 PM",
+        "start_time": "1:42:00 PM"
+      },
+      {
+        "end_time": "3:10:00 PM",
+        "start_time": "2:10:00 PM"
+      },
+      {
+        "end_time": "3:30:00 PM",
+        "start_time": "2:30:00 PM"
+      },
+      {
+        "end_time": "3:50:00 PM",
+        "start_time": "2:50:00 PM"
+      },
+      {
+        "end_time": "4:10:00 PM",
+        "start_time": "3:10:00 PM"
+      },
+      {
+        "end_time": "4:25:00 PM",
+        "start_time": "3:25:00 PM"
+      },
+      {
+        "end_time": "4:48:00 PM",
+        "start_time": "3:48:00 PM"
+      },
+      {
+        "end_time": "5:02:00 PM",
+        "start_time": "4:02:00 PM"
+      },
+      {
+        "end_time": "5:37:00 PM",
+        "start_time": "4:37:00 PM"
+      },
+      {
+        "end_time": "5:51:00 PM",
+        "start_time": "4:51:00 PM"
+      },
+      {
+        "end_time": "6:05:00 PM",
+        "start_time": "5:05:00 PM"
+      },
+      {
+        "end_time": "6:30:00 PM",
+        "start_time": "5:30:00 PM"
+      },
+      {
+        "end_time": "6:33:00 PM",
+        "start_time": "5:33:00 PM"
+      },
+      {
+        "end_time": "6:50:00 PM",
+        "start_time": "5:50:00 PM"
+      },
+      {
+        "end_time": "7:01:00 PM",
+        "start_time": "6:01:00 PM"
+      },
+      {
+        "end_time": "7:10:00 PM",
+        "start_time": "6:10:00 PM"
+      },
+      {
+        "end_time": "7:20:00 PM",
+        "start_time": "6:20:00 PM"
+      },
+      {
+        "end_time": "7:29:00 PM",
+        "start_time": "6:29:00 PM"
+      },
+      {
+        "end_time": "7:36:00 PM",
+        "start_time": "6:36:00 PM"
+      },
+      {
+        "end_time": "7:40:00 PM",
+        "start_time": "6:40:00 PM"
+      },
+      {
+        "end_time": "8:22:00 PM",
+        "start_time": "7:22:00 PM"
+      },
+      {
+        "end_time": "8:32:00 PM",
+        "start_time": "7:32:00 PM"
+      },
+      {
+        "end_time": "9:21:00 PM",
+        "start_time": "8:21:00 PM"
+      },
+      {
+        "end_time": "9:35:00 PM",
+        "start_time": "8:35:00 PM"
+      },
+      {
+        "end_time": "9:49:00 PM",
+        "start_time": "8:49:00 PM"
+      },
+      {
+        "end_time": "10:17:00 PM",
+        "start_time": "9:17:00 PM"
+      },
+      {
+        "end_time": "10:45:00 PM",
+        "start_time": "9:45:00 PM"
+      },
+      {
+        "end_time": "11:13:00 PM",
+        "start_time": "10:13:00 PM"
+      }
+    ],
+    "first_stop_lat": 28.6662233,
+    "last_stop_long": 77.30429,
+    "stop_details": [
+      {
+        "stop_lat": 28.6662233,
+        "stop_seq": 1,
+        "stop_long": 77.222017,
+        "stop_name": "Mori Gate terminal"
+      },
+      {
+        "stop_lat": 28.6683217,
+        "stop_seq": 2,
+        "stop_long": 77.2251717,
+        "stop_name": "I.S.B.T Nityanand Marg"
+      },
+      {
+        "stop_lat": 28.6714567,
+        "stop_seq": 3,
+        "stop_long": 77.2311117,
+        "stop_name": "ISBT K.Gate"
+      },
+      {
+        "stop_lat": 28.6652833,
+        "stop_seq": 4,
+        "stop_long": 77.2301933,
+        "stop_name": "GGS IP University"
+      },
+      {
+        "stop_lat": 28.6619517,
+        "stop_seq": 5,
+        "stop_long": 77.2345633,
+        "stop_name": "GPO Kashmere Gate"
+      },
+      {
+        "stop_lat": 28.65382,
+        "stop_seq": 6,
+        "stop_long": 77.2363967,
+        "stop_name": "Red Fort"
+      },
+      {
+        "stop_lat": 28.651375,
+        "stop_seq": 7,
+        "stop_long": 77.238085,
+        "stop_name": "Jama Masjid"
+      },
+      {
+        "stop_lat": 28.6442983,
+        "stop_seq": 8,
+        "stop_long": 77.2405667,
+        "stop_name": "Darya Ganj"
+      },
+      {
+        "stop_lat": 28.637355,
+        "stop_seq": 9,
+        "stop_long": 77.2409167,
+        "stop_name": "Delhi Gate"
+      },
+      {
+        "stop_lat": 28.6340017,
+        "stop_seq": 10,
+        "stop_long": 77.240815,
+        "stop_name": "Express Building"
+      },
+      {
+        "stop_lat": 28.6290933,
+        "stop_seq": 11,
+        "stop_long": 77.2411283,
+        "stop_name": "ITO BSZ Marg - Lala R.C. Aggarwal Chowk"
+      },
+      {
+        "stop_lat": 28.6215083,
+        "stop_seq": 12,
+        "stop_long": 77.24037,
+        "stop_name": "Supreme Court"
+      },
+      {
+        "stop_lat": 28.61877,
+        "stop_seq": 13,
+        "stop_long": 77.24027,
+        "stop_name": "Pragati Maidan"
+      },
+      {
+        "stop_lat": 28.6154517,
+        "stop_seq": 14,
+        "stop_long": 77.2401383,
+        "stop_name": "ITPO Office"
+      },
+      {
+        "stop_lat": 28.6101067,
+        "stop_seq": 15,
+        "stop_long": 77.2398883,
+        "stop_name": "National Stadium"
+      },
+      {
+        "stop_lat": 28.6068544,
+        "stop_seq": 16,
+        "stop_long": 77.237821,
+        "stop_name": "Zoo"
+      },
+      {
+        "stop_lat": 28.60216777,
+        "stop_seq": 17,
+        "stop_long": 77.24066567,
+        "stop_name": "Sunder Nagar Market"
+      },
+      {
+        "stop_lat": 28.59871074,
+        "stop_seq": 18,
+        "stop_long": 77.2408675,
+        "stop_name": "D.P.S school"
+      },
+      {
+        "stop_lat": 28.59153904,
+        "stop_seq": 19,
+        "stop_long": 77.24504303,
+        "stop_name": "P S Nizamuddin"
+      },
+      {
+        "stop_lat": 28.58945,
+        "stop_seq": 20,
+        "stop_long": 77.2459783,
+        "stop_name": "Hazrat Nizamuddin Extn"
+      },
+      {
+        "stop_lat": 28.5829567,
+        "stop_seq": 21,
+        "stop_long": 77.25108,
+        "stop_name": "Bhogal"
+      },
+      {
+        "stop_lat": 28.571455,
+        "stop_seq": 22,
+        "stop_long": 77.25907,
+        "stop_name": "Ashram"
+      },
+      {
+        "stop_lat": 28.5618783,
+        "stop_seq": 23,
+        "stop_long": 77.2661533,
+        "stop_name": "Ishwar Nagar-2"
+      },
+      {
+        "stop_lat": 28.5580733,
+        "stop_seq": 24,
+        "stop_long": 77.268505,
+        "stop_name": "Kalkaji Mode"
+      },
+      {
+        "stop_lat": 28.555005,
+        "stop_seq": 25,
+        "stop_long": 77.2711883,
+        "stop_name": "Sukhdev Vihar Depot"
+      },
+      {
+        "stop_lat": 28.5511017,
+        "stop_seq": 26,
+        "stop_long": 77.274025,
+        "stop_name": "CRRI"
+      },
+      {
+        "stop_lat": 28.5482183,
+        "stop_seq": 27,
+        "stop_long": 77.2763883,
+        "stop_name": "Okhla Tank"
+      },
+      {
+        "stop_lat": 28.5447367,
+        "stop_seq": 28,
+        "stop_long": 77.2782933,
+        "stop_name": "Harkesh Nagar"
+      },
+      {
+        "stop_lat": 28.5396167,
+        "stop_seq": 29,
+        "stop_long": 77.2825983,
+        "stop_name": "Apollo Hospital"
+      },
+      {
+        "stop_lat": 28.53209,
+        "stop_seq": 30,
+        "stop_long": 77.2868733,
+        "stop_name": "Sarita Vihar"
+      },
+      {
+        "stop_lat": 28.529785,
+        "stop_seq": 31,
+        "stop_long": 77.2879,
+        "stop_name": "Madanpur X-ing"
+      },
+      {
+        "stop_lat": 28.5218117,
+        "stop_seq": 32,
+        "stop_long": 77.29352,
+        "stop_name": "Haldiram"
+      },
+      {
+        "stop_lat": 28.5160217,
+        "stop_seq": 33,
+        "stop_long": 77.2964617,
+        "stop_name": "Ali Village"
+      },
+      {
+        "stop_lat": 28.5132083,
+        "stop_seq": 34,
+        "stop_long": 77.29762,
+        "stop_name": "Onida Factory"
+      },
+      {
+        "stop_lat": 28.5072933,
+        "stop_seq": 35,
+        "stop_long": 77.2998683,
+        "stop_name": "Power House Badarpur"
+      },
+      {
+        "stop_lat": 28.502215,
+        "stop_seq": 36,
+        "stop_long": 77.3000383,
+        "stop_name": "Badarpur"
+      },
+      {
+        "stop_lat": 28.4978817,
+        "stop_seq": 37,
+        "stop_long": 77.30231,
+        "stop_name": "Jaitpur X-ing"
+      },
+      {
+        "stop_lat": 28.492612,
+        "stop_seq": 38,
+        "stop_long": 77.303506,
+        "stop_name": "Badarpur Border"
+      }
+    ],
+    "last_stop_lat": 29.490865,
+    "route_number": "405-U"
+  },
+  {
+    "route_distance": 18.225,
+    "route_description": "Mehrauli Terminal - Old Delhi Rly. Station",
+    "first_stop_long": 77.1828083,
+    "running_frequency": [
+      {
+        "end_time": "6:10:00 AM",
+        "start_time": "5:10:00 AM"
+      },
+      {
+        "end_time": "6:30:00 AM",
+        "start_time": "5:30:00 AM"
+      },
+      {
+        "end_time": "6:50:00 AM",
+        "start_time": "5:50:00 AM"
+      },
+      {
+        "end_time": "7:20:00 AM",
+        "start_time": "6:20:00 AM"
+      },
+      {
+        "end_time": "7:40:00 AM",
+        "start_time": "6:40:00 AM"
+      },
+      {
+        "end_time": "7:45:00 AM",
+        "start_time": "6:45:00 AM"
+      },
+      {
+        "end_time": "7:50:00 AM",
+        "start_time": "6:50:00 AM"
+      },
+      {
+        "end_time": "8:00:00 AM",
+        "start_time": "7:00:00 AM"
+      },
+      {
+        "end_time": "8:05:00 AM",
+        "start_time": "7:05:00 AM"
+      },
+      {
+        "end_time": "8:10:00 AM",
+        "start_time": "7:10:00 AM"
+      },
+      {
+        "end_time": "8:20:00 AM",
+        "start_time": "7:20:00 AM"
+      },
+      {
+        "end_time": "8:40:00 AM",
+        "start_time": "7:40:00 AM"
+      },
+      {
+        "end_time": "8:50:00 AM",
+        "start_time": "7:50:00 AM"
+      },
+      {
+        "end_time": "8:55:00 AM",
+        "start_time": "7:55:00 AM"
+      },
+      {
+        "end_time": "9:00:00 AM",
+        "start_time": "8:00:00 AM"
+      },
+      {
+        "end_time": "9:05:00 AM",
+        "start_time": "8:05:00 AM"
+      },
+      {
+        "end_time": "9:10:00 AM",
+        "start_time": "8:10:00 AM"
+      },
+      {
+        "end_time": "9:15:00 AM",
+        "start_time": "8:15:00 AM"
+      },
+      {
+        "end_time": "9:20:00 AM",
+        "start_time": "8:20:00 AM"
+      },
+      {
+        "end_time": "9:30:00 AM",
+        "start_time": "8:30:00 AM"
+      },
+      {
+        "end_time": "9:35:00 AM",
+        "start_time": "8:35:00 AM"
+      },
+      {
+        "end_time": "9:40:00 AM",
+        "start_time": "8:40:00 AM"
+      },
+      {
+        "end_time": "9:45:00 AM",
+        "start_time": "8:45:00 AM"
+      },
+      {
+        "end_time": "9:50:00 AM",
+        "start_time": "8:50:00 AM"
+      },
+      {
+        "end_time": "9:55:00 AM",
+        "start_time": "8:55:00 AM"
+      },
+      {
+        "end_time": "10:00:00 AM",
+        "start_time": "9:00:00 AM"
+      },
+      {
+        "end_time": "10:05:00 AM",
+        "start_time": "9:05:00 AM"
+      },
+      {
+        "end_time": "10:08:00 AM",
+        "start_time": "9:08:00 AM"
+      },
+      {
+        "end_time": "10:13:00 AM",
+        "start_time": "9:13:00 AM"
+      },
+      {
+        "end_time": "10:15:00 AM",
+        "start_time": "9:15:00 AM"
+      },
+      {
+        "end_time": "10:20:00 AM",
+        "start_time": "9:20:00 AM"
+      },
+      {
+        "end_time": "10:25:00 AM",
+        "start_time": "9:25:00 AM"
+      },
+      {
+        "end_time": "10:35:00 AM",
+        "start_time": "9:35:00 AM"
+      },
+      {
+        "end_time": "10:40:00 AM",
+        "start_time": "9:40:00 AM"
+      },
+      {
+        "end_time": "10:45:00 AM",
+        "start_time": "9:45:00 AM"
+      },
+      {
+        "end_time": "10:50:00 AM",
+        "start_time": "9:50:00 AM"
+      },
+      {
+        "end_time": "10:55:00 AM",
+        "start_time": "9:55:00 AM"
+      },
+      {
+        "end_time": "11:03:00 AM",
+        "start_time": "10:03:00 AM"
+      },
+      {
+        "end_time": "11:05:00 AM",
+        "start_time": "10:05:00 AM"
+      },
+      {
+        "end_time": "11:08:00 AM",
+        "start_time": "10:08:00 AM"
+      },
+      {
+        "end_time": "11:15:00 AM",
+        "start_time": "10:15:00 AM"
+      },
+      {
+        "end_time": "11:20:00 AM",
+        "start_time": "10:20:00 AM"
+      },
+      {
+        "end_time": "11:23:00 AM",
+        "start_time": "10:23:00 AM"
+      },
+      {
+        "end_time": "11:25:00 AM",
+        "start_time": "10:25:00 AM"
+      },
+      {
+        "end_time": "11:30:00 AM",
+        "start_time": "10:30:00 AM"
+      },
+      {
+        "end_time": "11:35:00 AM",
+        "start_time": "10:35:00 AM"
+      },
+      {
+        "end_time": "11:38:00 AM",
+        "start_time": "10:38:00 AM"
+      },
+      {
+        "end_time": "11:40:00 AM",
+        "start_time": "10:40:00 AM"
+      },
+      {
+        "end_time": "11:50:00 AM",
+        "start_time": "10:50:00 AM"
+      },
+      {
+        "end_time": "11:55:00 AM",
+        "start_time": "10:55:00 AM"
+      },
+      {
+        "end_time": "12:05:00 PM",
+        "start_time": "11:05:00 AM"
+      },
+      {
+        "end_time": "12:15:00 PM",
+        "start_time": "11:15:00 AM"
+      },
+      {
+        "end_time": "12:24:00 PM",
+        "start_time": "11:24:00 AM"
+      },
+      {
+        "end_time": "12:35:00 PM",
+        "start_time": "11:35:00 AM"
+      },
+      {
+        "end_time": "12:40:00 PM",
+        "start_time": "11:40:00 AM"
+      },
+      {
+        "end_time": "12:45:00 PM",
+        "start_time": "11:45:00 AM"
+      },
+      {
+        "end_time": "12:55:00 PM",
+        "start_time": "11:55:00 AM"
+      },
+      {
+        "end_time": "1:00:00 PM",
+        "start_time": "12:00:00 PM"
+      },
+      {
+        "end_time": "1:03:00 PM",
+        "start_time": "12:03:00 PM"
+      },
+      {
+        "end_time": "1:08:00 PM",
+        "start_time": "12:08:00 PM"
+      },
+      {
+        "end_time": "1:18:00 PM",
+        "start_time": "12:18:00 PM"
+      },
+      {
+        "end_time": "1:25:00 PM",
+        "start_time": "12:25:00 PM"
+      },
+      {
+        "end_time": "1:35:00 PM",
+        "start_time": "12:35:00 PM"
+      },
+      {
+        "end_time": "1:45:00 PM",
+        "start_time": "12:45:00 PM"
+      },
+      {
+        "end_time": "1:53:00 PM",
+        "start_time": "12:53:00 PM"
+      },
+      {
+        "end_time": "1:55:00 PM",
+        "start_time": "12:55:00 PM"
+      },
+      {
+        "end_time": "2:00:00 PM",
+        "start_time": "1:00:00 PM"
+      },
+      {
+        "end_time": "2:05:00 PM",
+        "start_time": "1:05:00 PM"
+      },
+      {
+        "end_time": "2:25:00 PM",
+        "start_time": "1:25:00 PM"
+      },
+      {
+        "end_time": "2:35:00 PM",
+        "start_time": "1:35:00 PM"
+      },
+      {
+        "end_time": "2:50:00 PM",
+        "start_time": "1:50:00 PM"
+      },
+      {
+        "end_time": "3:25:00 PM",
+        "start_time": "2:25:00 PM"
+      },
+      {
+        "end_time": "3:45:00 PM",
+        "start_time": "2:45:00 PM"
+      },
+      {
+        "end_time": "3:55:00 PM",
+        "start_time": "2:55:00 PM"
+      },
+      {
+        "end_time": "4:00:00 PM",
+        "start_time": "3:00:00 PM"
+      },
+      {
+        "end_time": "4:05:00 PM",
+        "start_time": "3:05:00 PM"
+      },
+      {
+        "end_time": "4:10:00 PM",
+        "start_time": "3:10:00 PM"
+      },
+      {
+        "end_time": "4:25:00 PM",
+        "start_time": "3:25:00 PM"
+      },
+      {
+        "end_time": "4:30:00 PM",
+        "start_time": "3:30:00 PM"
+      },
+      {
+        "end_time": "4:35:00 PM",
+        "start_time": "3:35:00 PM"
+      },
+      {
+        "end_time": "4:40:00 PM",
+        "start_time": "3:40:00 PM"
+      },
+      {
+        "end_time": "4:45:00 PM",
+        "start_time": "3:45:00 PM"
+      },
+      {
+        "end_time": "4:50:00 PM",
+        "start_time": "3:50:00 PM"
+      },
+      {
+        "end_time": "5:00:00 PM",
+        "start_time": "4:00:00 PM"
+      },
+      {
+        "end_time": "5:05:00 PM",
+        "start_time": "4:05:00 PM"
+      },
+      {
+        "end_time": "5:10:00 PM",
+        "start_time": "4:10:00 PM"
+      },
+      {
+        "end_time": "5:15:00 PM",
+        "start_time": "4:15:00 PM"
+      },
+      {
+        "end_time": "5:20:00 PM",
+        "start_time": "4:20:00 PM"
+      },
+      {
+        "end_time": "5:25:00 PM",
+        "start_time": "4:25:00 PM"
+      },
+      {
+        "end_time": "5:30:00 PM",
+        "start_time": "4:30:00 PM"
+      },
+      {
+        "end_time": "5:35:00 PM",
+        "start_time": "4:35:00 PM"
+      },
+      {
+        "end_time": "5:40:00 PM",
+        "start_time": "4:40:00 PM"
+      },
+      {
+        "end_time": "5:45:00 PM",
+        "start_time": "4:45:00 PM"
+      },
+      {
+        "end_time": "5:50:00 PM",
+        "start_time": "4:50:00 PM"
+      },
+      {
+        "end_time": "5:55:00 PM",
+        "start_time": "4:55:00 PM"
+      },
+      {
+        "end_time": "6:00:00 PM",
+        "start_time": "5:00:00 PM"
+      },
+      {
+        "end_time": "6:05:00 PM",
+        "start_time": "5:05:00 PM"
+      },
+      {
+        "end_time": "6:10:00 PM",
+        "start_time": "5:10:00 PM"
+      },
+      {
+        "end_time": "6:15:00 PM",
+        "start_time": "5:15:00 PM"
+      },
+      {
+        "end_time": "6:20:00 PM",
+        "start_time": "5:20:00 PM"
+      },
+      {
+        "end_time": "6:25:00 PM",
+        "start_time": "5:25:00 PM"
+      },
+      {
+        "end_time": "6:30:00 PM",
+        "start_time": "5:30:00 PM"
+      },
+      {
+        "end_time": "6:35:00 PM",
+        "start_time": "5:35:00 PM"
+      },
+      {
+        "end_time": "6:40:00 PM",
+        "start_time": "5:40:00 PM"
+      },
+      {
+        "end_time": "6:45:00 PM",
+        "start_time": "5:45:00 PM"
+      },
+      {
+        "end_time": "6:50:00 PM",
+        "start_time": "5:50:00 PM"
+      },
+      {
+        "end_time": "6:53:00 PM",
+        "start_time": "5:53:00 PM"
+      },
+      {
+        "end_time": "6:55:00 PM",
+        "start_time": "5:55:00 PM"
+      },
+      {
+        "end_time": "7:00:00 PM",
+        "start_time": "6:00:00 PM"
+      },
+      {
+        "end_time": "7:05:00 PM",
+        "start_time": "6:05:00 PM"
+      },
+      {
+        "end_time": "7:10:00 PM",
+        "start_time": "6:10:00 PM"
+      },
+      {
+        "end_time": "7:15:00 PM",
+        "start_time": "6:15:00 PM"
+      },
+      {
+        "end_time": "7:20:00 PM",
+        "start_time": "6:20:00 PM"
+      },
+      {
+        "end_time": "7:25:00 PM",
+        "start_time": "6:25:00 PM"
+      },
+      {
+        "end_time": "7:33:00 PM",
+        "start_time": "6:33:00 PM"
+      },
+      {
+        "end_time": "7:38:00 PM",
+        "start_time": "6:38:00 PM"
+      },
+      {
+        "end_time": "7:45:00 PM",
+        "start_time": "6:45:00 PM"
+      },
+      {
+        "end_time": "7:50:00 PM",
+        "start_time": "6:50:00 PM"
+      },
+      {
+        "end_time": "7:55:00 PM",
+        "start_time": "6:55:00 PM"
+      },
+      {
+        "end_time": "8:00:00 PM",
+        "start_time": "7:00:00 PM"
+      },
+      {
+        "end_time": "8:10:00 PM",
+        "start_time": "7:10:00 PM"
+      },
+      {
+        "end_time": "8:20:00 PM",
+        "start_time": "7:20:00 PM"
+      },
+      {
+        "end_time": "8:25:00 PM",
+        "start_time": "7:25:00 PM"
+      },
+      {
+        "end_time": "8:30:00 PM",
+        "start_time": "7:30:00 PM"
+      },
+      {
+        "end_time": "8:35:00 PM",
+        "start_time": "7:35:00 PM"
+      },
+      {
+        "end_time": "8:40:00 PM",
+        "start_time": "7:40:00 PM"
+      },
+      {
+        "end_time": "8:45:00 PM",
+        "start_time": "7:45:00 PM"
+      },
+      {
+        "end_time": "8:50:00 PM",
+        "start_time": "7:50:00 PM"
+      },
+      {
+        "end_time": "8:55:00 PM",
+        "start_time": "7:55:00 PM"
+      },
+      {
+        "end_time": "9:00:00 PM",
+        "start_time": "8:00:00 PM"
+      },
+      {
+        "end_time": "9:05:00 PM",
+        "start_time": "8:05:00 PM"
+      },
+      {
+        "end_time": "9:10:00 PM",
+        "start_time": "8:10:00 PM"
+      },
+      {
+        "end_time": "9:15:00 PM",
+        "start_time": "8:15:00 PM"
+      },
+      {
+        "end_time": "9:20:00 PM",
+        "start_time": "8:20:00 PM"
+      },
+      {
+        "end_time": "9:25:00 PM",
+        "start_time": "8:25:00 PM"
+      },
+      {
+        "end_time": "9:30:00 PM",
+        "start_time": "8:30:00 PM"
+      },
+      {
+        "end_time": "9:40:00 PM",
+        "start_time": "8:40:00 PM"
+      },
+      {
+        "end_time": "9:50:00 PM",
+        "start_time": "8:50:00 PM"
+      },
+      {
+        "end_time": "10:00:00 PM",
+        "start_time": "9:00:00 PM"
+      },
+      {
+        "end_time": "10:05:00 PM",
+        "start_time": "9:05:00 PM"
+      },
+      {
+        "end_time": "10:12:00 PM",
+        "start_time": "9:12:00 PM"
+      },
+      {
+        "end_time": "10:40:00 PM",
+        "start_time": "9:40:00 PM"
+      }
+    ],
+    "first_stop_lat": 28.52223,
+    "last_stop_long": 77.2315717,
+    "stop_details": [
+      {
+        "stop_lat": 28.52223,
+        "stop_seq": 1,
+        "stop_long": 77.1828083,
+        "stop_name": "Mehrauli Terminal"
+      },
+      {
+        "stop_lat": 28.5264317,
+        "stop_seq": 2,
+        "stop_long": 77.1865617,
+        "stop_name": "Qutab Qutub Minar"
+      },
+      {
+        "stop_lat": 28.5282167,
+        "stop_seq": 3,
+        "stop_long": 77.1896483,
+        "stop_name": "TB Hospital"
+      },
+      {
+        "stop_lat": 28.5298533,
+        "stop_seq": 4,
+        "stop_long": 77.1920333,
+        "stop_name": "Lado Sarai DDA Flats"
+      },
+      {
+        "stop_lat": 28.5328017,
+        "stop_seq": 5,
+        "stop_long": 77.1954733,
+        "stop_name": "PTS"
+      },
+      {
+        "stop_lat": 28.5343267,
+        "stop_seq": 6,
+        "stop_long": 77.1967217,
+        "stop_name": "MMTC"
+      },
+      {
+        "stop_lat": 28.5376533,
+        "stop_seq": 7,
+        "stop_long": 77.1982383,
+        "stop_name": "Adhchini Village"
+      },
+      {
+        "stop_lat": 28.54083,
+        "stop_seq": 8,
+        "stop_long": 77.19948,
+        "stop_name": "Mother School"
+      },
+      {
+        "stop_lat": 28.5457333,
+        "stop_seq": 9,
+        "stop_long": 77.2018933,
+        "stop_name": "IIT Gate"
+      },
+      {
+        "stop_lat": 28.54896,
+        "stop_seq": 10,
+        "stop_long": 77.20333,
+        "stop_name": "Padmini Enclave"
+      },
+      {
+        "stop_lat": 28.5527917,
+        "stop_seq": 11,
+        "stop_long": 77.204805,
+        "stop_name": "Hauz Khas "
+      },
+      {
+        "stop_lat": 28.5584633,
+        "stop_seq": 12,
+        "stop_long": 77.2067467,
+        "stop_name": "Green Park Green Park Bus Stop"
+      },
+      {
+        "stop_lat": 28.5623283,
+        "stop_seq": 13,
+        "stop_long": 77.2073767,
+        "stop_name": "Yusuf Sarai"
+      },
+      {
+        "stop_lat": 28.5652083,
+        "stop_seq": 14,
+        "stop_long": 77.2076183,
+        "stop_name": "S.J. Hospital"
+      },
+      {
+        "stop_lat": 28.573836,
+        "stop_seq": 15,
+        "stop_long": 77.2094633,
+        "stop_name": "Kidwai Nagar"
+      },
+      {
+        "stop_lat": 28.57664743,
+        "stop_seq": 16,
+        "stop_long": 77.21045461,
+        "stop_name": "INA Cly"
+      },
+      {
+        "stop_lat": 28.5843233,
+        "stop_seq": 17,
+        "stop_long": 77.2122933,
+        "stop_name": "S.J. Air Port"
+      },
+      {
+        "stop_lat": 28.588335,
+        "stop_seq": 18,
+        "stop_long": 77.2125567,
+        "stop_name": "S.J. Madarsa"
+      },
+      {
+        "stop_lat": 28.596055,
+        "stop_seq": 19,
+        "stop_long": 77.21759,
+        "stop_name": "Prithvi Raj Road"
+      },
+      {
+        "stop_lat": 28.6017217,
+        "stop_seq": 20,
+        "stop_long": 77.222485,
+        "stop_name": "J&K House"
+      },
+      {
+        "stop_lat": 28.60699,
+        "stop_seq": 21,
+        "stop_long": 77.2267917,
+        "stop_name": "Shahjahan Road Raghubir Singh Junior Modern School"
+      },
+      {
+        "stop_lat": 28.610305,
+        "stop_seq": 22,
+        "stop_long": 77.2332483,
+        "stop_name": "National Art Gallery"
+      },
+      {
+        "stop_lat": 28.61051,
+        "stop_seq": 23,
+        "stop_long": 77.2401133,
+        "stop_name": "National Stadium"
+      },
+      {
+        "stop_lat": 28.61618,
+        "stop_seq": 24,
+        "stop_long": 77.2335383,
+        "stop_name": "Patiala House"
+      },
+      {
+        "stop_lat": 28.62169,
+        "stop_seq": 25,
+        "stop_long": 77.237645,
+        "stop_name": "Supreme Court"
+      },
+      {
+        "stop_lat": 28.6239117,
+        "stop_seq": 26,
+        "stop_long": 77.2392133,
+        "stop_name": "Tilak Bridge"
+      },
+      {
+        "stop_lat": 28.6286883,
+        "stop_seq": 27,
+        "stop_long": 77.2412283,
+        "stop_name": "ITO BSZ Marg - Lala R.C. Aggarwal Chowk "
+      },
+      {
+        "stop_lat": 28.633615,
+        "stop_seq": 28,
+        "stop_long": 77.24083,
+        "stop_name": "Express Building"
+      },
+      {
+        "stop_lat": 28.6370283,
+        "stop_seq": 29,
+        "stop_long": 77.2409233,
+        "stop_name": "Delhi Gate Shaheed Park"
+      },
+      {
+        "stop_lat": 28.644395,
+        "stop_seq": 30,
+        "stop_long": 77.24022,
+        "stop_name": "Darya Ganj"
+      },
+      {
+        "stop_lat": 28.651225,
+        "stop_seq": 31,
+        "stop_long": 77.2379567,
+        "stop_name": "Jama Masjid"
+      },
+      {
+        "stop_lat": 28.653855,
+        "stop_seq": 32,
+        "stop_long": 77.2364267,
+        "stop_name": "Red Fort"
+      },
+      {
+        "stop_lat": 28.65976,
+        "stop_seq": 33,
+        "stop_long": 77.2315717,
+        "stop_name": "Old Delhi Railway Station"
+      }
+    ],
+    "last_stop_lat": 28.65976,
+    "route_number": "502-D"
+  },
+  {
+    "route_distance": 17.89,
+    "route_description": "Old Delhi Rly. Station -  Mehrauli Terminal",
+    "first_stop_long": 77.2268543,
+    "running_frequency": [
+      {
+        "end_time": "6:40:00 AM",
+        "start_time": "5:40:00 AM"
+      },
+      {
+        "end_time": "7:00:00 AM",
+        "start_time": "6:00:00 AM"
+      },
+      {
+        "end_time": "7:25:00 AM",
+        "start_time": "6:25:00 AM"
+      },
+      {
+        "end_time": "7:30:00 AM",
+        "start_time": "6:30:00 AM"
+      },
+      {
+        "end_time": "7:48:00 AM",
+        "start_time": "6:48:00 AM"
+      },
+      {
+        "end_time": "8:00:00 AM",
+        "start_time": "7:00:00 AM"
+      },
+      {
+        "end_time": "8:08:00 AM",
+        "start_time": "7:08:00 AM"
+      },
+      {
+        "end_time": "8:28:00 AM",
+        "start_time": "7:28:00 AM"
+      },
+      {
+        "end_time": "8:38:00 AM",
+        "start_time": "7:38:00 AM"
+      },
+      {
+        "end_time": "8:53:00 AM",
+        "start_time": "7:53:00 AM"
+      },
+      {
+        "end_time": "8:58:00 AM",
+        "start_time": "7:58:00 AM"
+      },
+      {
+        "end_time": "9:03:00 AM",
+        "start_time": "8:03:00 AM"
+      },
+      {
+        "end_time": "9:08:00 AM",
+        "start_time": "8:08:00 AM"
+      },
+      {
+        "end_time": "9:18:00 AM",
+        "start_time": "8:18:00 AM"
+      },
+      {
+        "end_time": "9:23:00 AM",
+        "start_time": "8:23:00 AM"
+      },
+      {
+        "end_time": "9:25:00 AM",
+        "start_time": "8:25:00 AM"
+      },
+      {
+        "end_time": "9:28:00 AM",
+        "start_time": "8:28:00 AM"
+      },
+      {
+        "end_time": "9:33:00 AM",
+        "start_time": "8:33:00 AM"
+      },
+      {
+        "end_time": "9:38:00 AM",
+        "start_time": "8:38:00 AM"
+      },
+      {
+        "end_time": "9:45:00 AM",
+        "start_time": "8:45:00 AM"
+      },
+      {
+        "end_time": "9:50:00 AM",
+        "start_time": "8:50:00 AM"
+      },
+      {
+        "end_time": "9:58:00 AM",
+        "start_time": "8:58:00 AM"
+      },
+      {
+        "end_time": "10:03:00 AM",
+        "start_time": "9:03:00 AM"
+      },
+      {
+        "end_time": "10:08:00 AM",
+        "start_time": "9:08:00 AM"
+      },
+      {
+        "end_time": "10:13:00 AM",
+        "start_time": "9:13:00 AM"
+      },
+      {
+        "end_time": "10:18:00 AM",
+        "start_time": "9:18:00 AM"
+      },
+      {
+        "end_time": "10:23:00 AM",
+        "start_time": "9:23:00 AM"
+      },
+      {
+        "end_time": "10:28:00 AM",
+        "start_time": "9:28:00 AM"
+      },
+      {
+        "end_time": "10:33:00 AM",
+        "start_time": "9:33:00 AM"
+      },
+      {
+        "end_time": "10:38:00 AM",
+        "start_time": "9:38:00 AM"
+      },
+      {
+        "end_time": "10:48:00 AM",
+        "start_time": "9:48:00 AM"
+      },
+      {
+        "end_time": "10:53:00 AM",
+        "start_time": "9:53:00 AM"
+      },
+      {
+        "end_time": "10:58:00 AM",
+        "start_time": "9:58:00 AM"
+      },
+      {
+        "end_time": "11:03:00 AM",
+        "start_time": "10:03:00 AM"
+      },
+      {
+        "end_time": "11:08:00 AM",
+        "start_time": "10:08:00 AM"
+      },
+      {
+        "end_time": "11:13:00 AM",
+        "start_time": "10:13:00 AM"
+      },
+      {
+        "end_time": "11:18:00 AM",
+        "start_time": "10:18:00 AM"
+      },
+      {
+        "end_time": "11:23:00 AM",
+        "start_time": "10:23:00 AM"
+      },
+      {
+        "end_time": "11:28:00 AM",
+        "start_time": "10:28:00 AM"
+      },
+      {
+        "end_time": "11:30:00 AM",
+        "start_time": "10:30:00 AM"
+      },
+      {
+        "end_time": "11:33:00 AM",
+        "start_time": "10:33:00 AM"
+      },
+      {
+        "end_time": "11:38:00 AM",
+        "start_time": "10:38:00 AM"
+      },
+      {
+        "end_time": "11:43:00 AM",
+        "start_time": "10:43:00 AM"
+      },
+      {
+        "end_time": "11:53:00 AM",
+        "start_time": "10:53:00 AM"
+      },
+      {
+        "end_time": "11:58:00 AM",
+        "start_time": "10:58:00 AM"
+      },
+      {
+        "end_time": "12:03:00 PM",
+        "start_time": "11:03:00 AM"
+      },
+      {
+        "end_time": "12:08:00 PM",
+        "start_time": "11:08:00 AM"
+      },
+      {
+        "end_time": "12:13:00 PM",
+        "start_time": "11:13:00 AM"
+      },
+      {
+        "end_time": "12:20:00 PM",
+        "start_time": "11:20:00 AM"
+      },
+      {
+        "end_time": "12:25:00 PM",
+        "start_time": "11:25:00 AM"
+      },
+      {
+        "end_time": "12:33:00 PM",
+        "start_time": "11:33:00 AM"
+      },
+      {
+        "end_time": "12:38:00 PM",
+        "start_time": "11:38:00 AM"
+      },
+      {
+        "end_time": "12:40:00 PM",
+        "start_time": "11:40:00 AM"
+      },
+      {
+        "end_time": "12:43:00 PM",
+        "start_time": "11:43:00 AM"
+      },
+      {
+        "end_time": "12:48:00 PM",
+        "start_time": "11:48:00 AM"
+      },
+      {
+        "end_time": "12:53:00 PM",
+        "start_time": "11:53:00 AM"
+      },
+      {
+        "end_time": "12:58:00 PM",
+        "start_time": "11:58:00 AM"
+      },
+      {
+        "end_time": "1:13:00 PM",
+        "start_time": "12:13:00 PM"
+      },
+      {
+        "end_time": "1:23:00 PM",
+        "start_time": "12:23:00 PM"
+      },
+      {
+        "end_time": "1:33:00 PM",
+        "start_time": "12:33:00 PM"
+      },
+      {
+        "end_time": "1:53:00 PM",
+        "start_time": "12:53:00 PM"
+      },
+      {
+        "end_time": "2:03:00 PM",
+        "start_time": "1:03:00 PM"
+      },
+      {
+        "end_time": "2:13:00 PM",
+        "start_time": "1:13:00 PM"
+      },
+      {
+        "end_time": "2:18:00 PM",
+        "start_time": "1:18:00 PM"
+      },
+      {
+        "end_time": "2:40:00 PM",
+        "start_time": "1:40:00 PM"
+      },
+      {
+        "end_time": "2:43:00 PM",
+        "start_time": "1:43:00 PM"
+      },
+      {
+        "end_time": "2:53:00 PM",
+        "start_time": "1:53:00 PM"
+      },
+      {
+        "end_time": "3:03:00 PM",
+        "start_time": "2:03:00 PM"
+      },
+      {
+        "end_time": "3:13:00 PM",
+        "start_time": "2:13:00 PM"
+      },
+      {
+        "end_time": "3:30:00 PM",
+        "start_time": "2:30:00 PM"
+      },
+      {
+        "end_time": "3:43:00 PM",
+        "start_time": "2:43:00 PM"
+      },
+      {
+        "end_time": "4:00:00 PM",
+        "start_time": "3:00:00 PM"
+      },
+      {
+        "end_time": "4:05:00 PM",
+        "start_time": "3:05:00 PM"
+      },
+      {
+        "end_time": "4:23:00 PM",
+        "start_time": "3:23:00 PM"
+      },
+      {
+        "end_time": "4:35:00 PM",
+        "start_time": "3:35:00 PM"
+      },
+      {
+        "end_time": "4:40:00 PM",
+        "start_time": "3:40:00 PM"
+      },
+      {
+        "end_time": "4:45:00 PM",
+        "start_time": "3:45:00 PM"
+      },
+      {
+        "end_time": "4:55:00 PM",
+        "start_time": "3:55:00 PM"
+      },
+      {
+        "end_time": "5:03:00 PM",
+        "start_time": "4:03:00 PM"
+      },
+      {
+        "end_time": "5:13:00 PM",
+        "start_time": "4:13:00 PM"
+      },
+      {
+        "end_time": "5:18:00 PM",
+        "start_time": "4:18:00 PM"
+      },
+      {
+        "end_time": "5:23:00 PM",
+        "start_time": "4:23:00 PM"
+      },
+      {
+        "end_time": "5:30:00 PM",
+        "start_time": "4:30:00 PM"
+      },
+      {
+        "end_time": "5:38:00 PM",
+        "start_time": "4:38:00 PM"
+      },
+      {
+        "end_time": "5:43:00 PM",
+        "start_time": "4:43:00 PM"
+      },
+      {
+        "end_time": "5:48:00 PM",
+        "start_time": "4:48:00 PM"
+      },
+      {
+        "end_time": "5:53:00 PM",
+        "start_time": "4:53:00 PM"
+      },
+      {
+        "end_time": "5:58:00 PM",
+        "start_time": "4:58:00 PM"
+      },
+      {
+        "end_time": "6:03:00 PM",
+        "start_time": "5:03:00 PM"
+      },
+      {
+        "end_time": "6:10:00 PM",
+        "start_time": "5:10:00 PM"
+      },
+      {
+        "end_time": "6:15:00 PM",
+        "start_time": "5:15:00 PM"
+      },
+      {
+        "end_time": "6:20:00 PM",
+        "start_time": "5:20:00 PM"
+      },
+      {
+        "end_time": "6:25:00 PM",
+        "start_time": "5:25:00 PM"
+      },
+      {
+        "end_time": "6:30:00 PM",
+        "start_time": "5:30:00 PM"
+      },
+      {
+        "end_time": "6:33:00 PM",
+        "start_time": "5:33:00 PM"
+      },
+      {
+        "end_time": "6:38:00 PM",
+        "start_time": "5:38:00 PM"
+      },
+      {
+        "end_time": "6:45:00 PM",
+        "start_time": "5:45:00 PM"
+      },
+      {
+        "end_time": "6:50:00 PM",
+        "start_time": "5:50:00 PM"
+      },
+      {
+        "end_time": "6:58:00 PM",
+        "start_time": "5:58:00 PM"
+      },
+      {
+        "end_time": "7:03:00 PM",
+        "start_time": "6:03:00 PM"
+      },
+      {
+        "end_time": "7:08:00 PM",
+        "start_time": "6:08:00 PM"
+      },
+      {
+        "end_time": "7:13:00 PM",
+        "start_time": "6:13:00 PM"
+      },
+      {
+        "end_time": "7:18:00 PM",
+        "start_time": "6:18:00 PM"
+      },
+      {
+        "end_time": "7:23:00 PM",
+        "start_time": "6:23:00 PM"
+      },
+      {
+        "end_time": "7:28:00 PM",
+        "start_time": "6:28:00 PM"
+      },
+      {
+        "end_time": "7:30:00 PM",
+        "start_time": "6:30:00 PM"
+      },
+      {
+        "end_time": "7:35:00 PM",
+        "start_time": "6:35:00 PM"
+      },
+      {
+        "end_time": "7:43:00 PM",
+        "start_time": "6:43:00 PM"
+      },
+      {
+        "end_time": "7:48:00 PM",
+        "start_time": "6:48:00 PM"
+      },
+      {
+        "end_time": "7:53:00 PM",
+        "start_time": "6:53:00 PM"
+      },
+      {
+        "end_time": "7:58:00 PM",
+        "start_time": "6:58:00 PM"
+      },
+      {
+        "end_time": "8:03:00 PM",
+        "start_time": "7:03:00 PM"
+      },
+      {
+        "end_time": "8:08:00 PM",
+        "start_time": "7:08:00 PM"
+      },
+      {
+        "end_time": "8:10:00 PM",
+        "start_time": "7:10:00 PM"
+      },
+      {
+        "end_time": "8:13:00 PM",
+        "start_time": "7:13:00 PM"
+      },
+      {
+        "end_time": "8:18:00 PM",
+        "start_time": "7:18:00 PM"
+      },
+      {
+        "end_time": "8:23:00 PM",
+        "start_time": "7:23:00 PM"
+      },
+      {
+        "end_time": "8:28:00 PM",
+        "start_time": "7:28:00 PM"
+      },
+      {
+        "end_time": "8:37:00 PM",
+        "start_time": "7:37:00 PM"
+      },
+      {
+        "end_time": "8:43:00 PM",
+        "start_time": "7:43:00 PM"
+      },
+      {
+        "end_time": "8:50:00 PM",
+        "start_time": "7:50:00 PM"
+      },
+      {
+        "end_time": "8:58:00 PM",
+        "start_time": "7:58:00 PM"
+      },
+      {
+        "end_time": "9:03:00 PM",
+        "start_time": "8:03:00 PM"
+      },
+      {
+        "end_time": "9:18:00 PM",
+        "start_time": "8:18:00 PM"
+      },
+      {
+        "end_time": "9:23:00 PM",
+        "start_time": "8:23:00 PM"
+      },
+      {
+        "end_time": "9:28:00 PM",
+        "start_time": "8:28:00 PM"
+      },
+      {
+        "end_time": "9:38:00 PM",
+        "start_time": "8:38:00 PM"
+      },
+      {
+        "end_time": "9:48:00 PM",
+        "start_time": "8:48:00 PM"
+      },
+      {
+        "end_time": "9:53:00 PM",
+        "start_time": "8:53:00 PM"
+      },
+      {
+        "end_time": "10:00:00 PM",
+        "start_time": "9:00:00 PM"
+      },
+      {
+        "end_time": "10:08:00 PM",
+        "start_time": "9:08:00 PM"
+      },
+      {
+        "end_time": "10:13:00 PM",
+        "start_time": "9:13:00 PM"
+      },
+      {
+        "end_time": "10:28:00 PM",
+        "start_time": "9:28:00 PM"
+      },
+      {
+        "end_time": "10:43:00 PM",
+        "start_time": "9:43:00 PM"
+      },
+      {
+        "end_time": "10:48:00 PM",
+        "start_time": "9:48:00 PM"
+      },
+      {
+        "end_time": "10:58:00 PM",
+        "start_time": "9:58:00 PM"
+      },
+      {
+        "end_time": "11:08:00 PM",
+        "start_time": "10:08:00 PM"
+      },
+      {
+        "end_time": "11:20:00 PM",
+        "start_time": "10:20:00 PM"
+      }
+    ],
+    "first_stop_lat": 28.66038,
+    "last_stop_long": 77.18221027,
+    "stop_details": [
+      {
+        "stop_lat": 28.66038,
+        "stop_seq": 1,
+        "stop_long": 77.2268543,
+        "stop_name": "Old Delhi Railway Station"
+      },
+      {
+        "stop_lat": 28.65382,
+        "stop_seq": 2,
+        "stop_long": 77.2363967,
+        "stop_name": "Red Fort"
+      },
+      {
+        "stop_lat": 28.651375,
+        "stop_seq": 3,
+        "stop_long": 77.238085,
+        "stop_name": "Jama Masjid"
+      },
+      {
+        "stop_lat": 28.6442983,
+        "stop_seq": 4,
+        "stop_long": 77.2405667,
+        "stop_name": "Darya Ganj"
+      },
+      {
+        "stop_lat": 28.637355,
+        "stop_seq": 5,
+        "stop_long": 77.2409167,
+        "stop_name": "Delhi Gate Shaheed Park"
+      },
+      {
+        "stop_lat": 28.6340017,
+        "stop_seq": 6,
+        "stop_long": 77.240815,
+        "stop_name": "Express Building"
+      },
+      {
+        "stop_lat": 28.6290933,
+        "stop_seq": 7,
+        "stop_long": 77.2411283,
+        "stop_name": "ITO BSZ Marg - Lala R.C. Aggarwal Chowk "
+      },
+      {
+        "stop_lat": 28.6239117,
+        "stop_seq": 8,
+        "stop_long": 77.2392133,
+        "stop_name": "Tilak Bridge"
+      },
+      {
+        "stop_lat": 28.6215083,
+        "stop_seq": 9,
+        "stop_long": 77.24037,
+        "stop_name": "Supreme Court"
+      },
+      {
+        "stop_lat": 28.6197576,
+        "stop_seq": 10,
+        "stop_long": 77.2358115,
+        "stop_name": "Patiala House"
+      },
+      {
+        "stop_lat": 28.6133867,
+        "stop_seq": 11,
+        "stop_long": 77.23482,
+        "stop_name": "National Stadium"
+      },
+      {
+        "stop_lat": 28.610305,
+        "stop_seq": 12,
+        "stop_long": 77.2332483,
+        "stop_name": "National Art Gallery"
+      },
+      {
+        "stop_lat": 28.6072933,
+        "stop_seq": 13,
+        "stop_long": 77.2271133,
+        "stop_name": "Shahjahan Road Raghubir Singh Junior Modern School"
+      },
+      {
+        "stop_lat": 28.6012717,
+        "stop_seq": 14,
+        "stop_long": 77.2223183,
+        "stop_name": "J&K House"
+      },
+      {
+        "stop_lat": 28.596195,
+        "stop_seq": 15,
+        "stop_long": 77.217415,
+        "stop_name": "Prithvi Raj Road"
+      },
+      {
+        "stop_lat": 28.58836,
+        "stop_seq": 16,
+        "stop_long": 77.2128133,
+        "stop_name": "S.J. Madarsa"
+      },
+      {
+        "stop_lat": 28.5841867,
+        "stop_seq": 17,
+        "stop_long": 77.2125083,
+        "stop_name": "S.J. Air Port"
+      },
+      {
+        "stop_lat": 28.57664743,
+        "stop_seq": 18,
+        "stop_long": 77.21045461,
+        "stop_name": "INA Cly"
+      },
+      {
+        "stop_lat": 28.573836,
+        "stop_seq": 19,
+        "stop_long": 77.2094633,
+        "stop_name": "Kidwai Nagar"
+      },
+      {
+        "stop_lat": 28.5652083,
+        "stop_seq": 20,
+        "stop_long": 77.2076183,
+        "stop_name": "S.J. Hospital"
+      },
+      {
+        "stop_lat": 28.5624617,
+        "stop_seq": 21,
+        "stop_long": 77.2075317,
+        "stop_name": "Yusuf Sarai"
+      },
+      {
+        "stop_lat": 28.5583833,
+        "stop_seq": 22,
+        "stop_long": 77.2069217,
+        "stop_name": "Green Park Green Park Bus Stop"
+      },
+      {
+        "stop_lat": 28.5528367,
+        "stop_seq": 23,
+        "stop_long": 77.2052033,
+        "stop_name": "Hauz Khas "
+      },
+      {
+        "stop_lat": 28.54897,
+        "stop_seq": 24,
+        "stop_long": 77.2036733,
+        "stop_name": "Padmini Enclave"
+      },
+      {
+        "stop_lat": 28.5458733,
+        "stop_seq": 25,
+        "stop_long": 77.2022867,
+        "stop_name": "IIT Gate I I T Gate Bus Stop"
+      },
+      {
+        "stop_lat": 28.540785,
+        "stop_seq": 26,
+        "stop_long": 77.1996833,
+        "stop_name": "Mother School"
+      },
+      {
+        "stop_lat": 28.5372983,
+        "stop_seq": 27,
+        "stop_long": 77.1980317,
+        "stop_name": "Adhchini Village"
+      },
+      {
+        "stop_lat": 28.5345583,
+        "stop_seq": 28,
+        "stop_long": 77.1966833,
+        "stop_name": "MMTC"
+      },
+      {
+        "stop_lat": 28.5328833,
+        "stop_seq": 29,
+        "stop_long": 77.1954267,
+        "stop_name": "PTS"
+      },
+      {
+        "stop_lat": 28.5298283,
+        "stop_seq": 30,
+        "stop_long": 77.1932669,
+        "stop_name": "Lado Sarai DDA Flats"
+      },
+      {
+        "stop_lat": 28.5283833,
+        "stop_seq": 31,
+        "stop_long": 77.1898767,
+        "stop_name": "TB Hospital"
+      },
+      {
+        "stop_lat": 28.5264283,
+        "stop_seq": 32,
+        "stop_long": 77.1869967,
+        "stop_name": "Qutab Qutub Minar"
+      },
+      {
+        "stop_lat": 28.52286273,
+        "stop_seq": 33,
+        "stop_long": 77.18221027,
+        "stop_name": "Mehrauli Terminal"
+      }
+    ],
+    "last_stop_lat": 28.52286273,
+    "route_number": "502-U"
+  },
+  {
+    "route_distance": 28.453,
+    "route_description": "Uttam Nagar Terminal - Mori Gate Terminal",
+    "first_stop_long": 77.065317,
+    "running_frequency": [
+      {
+        "end_time": "5:30:00 AM",
+        "start_time": "4:30:00 AM"
+      },
+      {
+        "end_time": "6:00:00 AM",
+        "start_time": "5:00:00 AM"
+      },
+      {
+        "end_time": "6:15:00 AM",
+        "start_time": "5:15:00 AM"
+      },
+      {
+        "end_time": "6:20:00 AM",
+        "start_time": "5:20:00 AM"
+      },
+      {
+        "end_time": "6:30:00 AM",
+        "start_time": "5:30:00 AM"
+      },
+      {
+        "end_time": "6:40:00 AM",
+        "start_time": "5:40:00 AM"
+      },
+      {
+        "end_time": "6:50:00 AM",
+        "start_time": "5:50:00 AM"
+      },
+      {
+        "end_time": "7:00:00 AM",
+        "start_time": "6:00:00 AM"
+      },
+      {
+        "end_time": "7:10:00 AM",
+        "start_time": "6:10:00 AM"
+      },
+      {
+        "end_time": "7:20:00 AM",
+        "start_time": "6:20:00 AM"
+      },
+      {
+        "end_time": "7:30:00 AM",
+        "start_time": "6:30:00 AM"
+      },
+      {
+        "end_time": "7:35:00 AM",
+        "start_time": "6:35:00 AM"
+      },
+      {
+        "end_time": "7:45:00 AM",
+        "start_time": "6:45:00 AM"
+      },
+      {
+        "end_time": "7:48:00 AM",
+        "start_time": "6:48:00 AM"
+      },
+      {
+        "end_time": "8:05:00 AM",
+        "start_time": "7:05:00 AM"
+      },
+      {
+        "end_time": "8:08:00 AM",
+        "start_time": "7:08:00 AM"
+      },
+      {
+        "end_time": "8:12:00 AM",
+        "start_time": "7:12:00 AM"
+      },
+      {
+        "end_time": "8:23:00 AM",
+        "start_time": "7:23:00 AM"
+      },
+      {
+        "end_time": "8:25:00 AM",
+        "start_time": "7:25:00 AM"
+      },
+      {
+        "end_time": "8:48:00 AM",
+        "start_time": "7:48:00 AM"
+      },
+      {
+        "end_time": "8:55:00 AM",
+        "start_time": "7:55:00 AM"
+      },
+      {
+        "end_time": "9:33:00 AM",
+        "start_time": "8:33:00 AM"
+      },
+      {
+        "end_time": "9:47:00 AM",
+        "start_time": "8:47:00 AM"
+      },
+      {
+        "end_time": "9:50:00 AM",
+        "start_time": "8:50:00 AM"
+      },
+      {
+        "end_time": "10:00:00 AM",
+        "start_time": "9:00:00 AM"
+      },
+      {
+        "end_time": "10:33:00 AM",
+        "start_time": "9:33:00 AM"
+      },
+      {
+        "end_time": "11:00:00 AM",
+        "start_time": "10:00:00 AM"
+      },
+      {
+        "end_time": "11:10:00 AM",
+        "start_time": "10:10:00 AM"
+      },
+      {
+        "end_time": "11:15:00 AM",
+        "start_time": "10:15:00 AM"
+      },
+      {
+        "end_time": "11:25:00 AM",
+        "start_time": "10:25:00 AM"
+      },
+      {
+        "end_time": "11:28:00 AM",
+        "start_time": "10:28:00 AM"
+      },
+      {
+        "end_time": "11:30:00 AM",
+        "start_time": "10:30:00 AM"
+      },
+      {
+        "end_time": "11:35:00 AM",
+        "start_time": "10:35:00 AM"
+      },
+      {
+        "end_time": "11:40:00 AM",
+        "start_time": "10:40:00 AM"
+      },
+      {
+        "end_time": "11:45:00 AM",
+        "start_time": "10:45:00 AM"
+      },
+      {
+        "end_time": "11:52:00 AM",
+        "start_time": "10:52:00 AM"
+      },
+      {
+        "end_time": "11:55:00 AM",
+        "start_time": "10:55:00 AM"
+      },
+      {
+        "end_time": "12:03:00 PM",
+        "start_time": "11:03:00 AM"
+      },
+      {
+        "end_time": "12:12:00 PM",
+        "start_time": "11:12:00 AM"
+      },
+      {
+        "end_time": "12:15:00 PM",
+        "start_time": "11:15:00 AM"
+      },
+      {
+        "end_time": "12:18:00 PM",
+        "start_time": "11:18:00 AM"
+      },
+      {
+        "end_time": "12:22:00 PM",
+        "start_time": "11:22:00 AM"
+      },
+      {
+        "end_time": "12:35:00 PM",
+        "start_time": "11:35:00 AM"
+      },
+      {
+        "end_time": "12:38:00 PM",
+        "start_time": "11:38:00 AM"
+      },
+      {
+        "end_time": "12:45:00 PM",
+        "start_time": "11:45:00 AM"
+      },
+      {
+        "end_time": "12:48:00 PM",
+        "start_time": "11:48:00 AM"
+      },
+      {
+        "end_time": "1:00:00 PM",
+        "start_time": "12:00:00 PM"
+      },
+      {
+        "end_time": "1:05:00 PM",
+        "start_time": "12:05:00 PM"
+      },
+      {
+        "end_time": "1:50:00 PM",
+        "start_time": "12:50:00 PM"
+      },
+      {
+        "end_time": "2:10:00 PM",
+        "start_time": "1:10:00 PM"
+      },
+      {
+        "end_time": "2:20:00 PM",
+        "start_time": "1:20:00 PM"
+      },
+      {
+        "end_time": "2:30:00 PM",
+        "start_time": "1:30:00 PM"
+      },
+      {
+        "end_time": "2:40:00 PM",
+        "start_time": "1:40:00 PM"
+      },
+      {
+        "end_time": "2:48:00 PM",
+        "start_time": "1:48:00 PM"
+      },
+      {
+        "end_time": "2:50:00 PM",
+        "start_time": "1:50:00 PM"
+      },
+      {
+        "end_time": "3:00:00 PM",
+        "start_time": "2:00:00 PM"
+      },
+      {
+        "end_time": "3:08:00 PM",
+        "start_time": "2:08:00 PM"
+      },
+      {
+        "end_time": "3:10:00 PM",
+        "start_time": "2:10:00 PM"
+      },
+      {
+        "end_time": "3:20:00 PM",
+        "start_time": "2:20:00 PM"
+      },
+      {
+        "end_time": "3:25:00 PM",
+        "start_time": "2:25:00 PM"
+      },
+      {
+        "end_time": "3:30:00 PM",
+        "start_time": "2:30:00 PM"
+      },
+      {
+        "end_time": "3:40:00 PM",
+        "start_time": "2:40:00 PM"
+      },
+      {
+        "end_time": "3:45:00 PM",
+        "start_time": "2:45:00 PM"
+      },
+      {
+        "end_time": "3:48:00 PM",
+        "start_time": "2:48:00 PM"
+      },
+      {
+        "end_time": "3:58:00 PM",
+        "start_time": "2:58:00 PM"
+      },
+      {
+        "end_time": "4:05:00 PM",
+        "start_time": "3:05:00 PM"
+      },
+      {
+        "end_time": "4:15:00 PM",
+        "start_time": "3:15:00 PM"
+      },
+      {
+        "end_time": "4:18:00 PM",
+        "start_time": "3:18:00 PM"
+      },
+      {
+        "end_time": "4:25:00 PM",
+        "start_time": "3:25:00 PM"
+      },
+      {
+        "end_time": "4:33:00 PM",
+        "start_time": "3:33:00 PM"
+      },
+      {
+        "end_time": "4:38:00 PM",
+        "start_time": "3:38:00 PM"
+      },
+      {
+        "end_time": "4:45:00 PM",
+        "start_time": "3:45:00 PM"
+      },
+      {
+        "end_time": "4:47:00 PM",
+        "start_time": "3:47:00 PM"
+      },
+      {
+        "end_time": "4:55:00 PM",
+        "start_time": "3:55:00 PM"
+      },
+      {
+        "end_time": "4:58:00 PM",
+        "start_time": "3:58:00 PM"
+      },
+      {
+        "end_time": "5:05:00 PM",
+        "start_time": "4:05:00 PM"
+      },
+      {
+        "end_time": "5:08:00 PM",
+        "start_time": "4:08:00 PM"
+      },
+      {
+        "end_time": "5:15:00 PM",
+        "start_time": "4:15:00 PM"
+      },
+      {
+        "end_time": "5:25:00 PM",
+        "start_time": "4:25:00 PM"
+      },
+      {
+        "end_time": "5:35:00 PM",
+        "start_time": "4:35:00 PM"
+      },
+      {
+        "end_time": "5:38:00 PM",
+        "start_time": "4:38:00 PM"
+      },
+      {
+        "end_time": "5:40:00 PM",
+        "start_time": "4:40:00 PM"
+      },
+      {
+        "end_time": "5:50:00 PM",
+        "start_time": "4:50:00 PM"
+      },
+      {
+        "end_time": "6:00:00 PM",
+        "start_time": "5:00:00 PM"
+      },
+      {
+        "end_time": "6:10:00 PM",
+        "start_time": "5:10:00 PM"
+      },
+      {
+        "end_time": "6:18:00 PM",
+        "start_time": "5:18:00 PM"
+      },
+      {
+        "end_time": "6:20:00 PM",
+        "start_time": "5:20:00 PM"
+      },
+      {
+        "end_time": "6:30:00 PM",
+        "start_time": "5:30:00 PM"
+      },
+      {
+        "end_time": "6:40:00 PM",
+        "start_time": "5:40:00 PM"
+      },
+      {
+        "end_time": "6:48:00 PM",
+        "start_time": "5:48:00 PM"
+      },
+      {
+        "end_time": "6:50:00 PM",
+        "start_time": "5:50:00 PM"
+      },
+      {
+        "end_time": "6:58:00 PM",
+        "start_time": "5:58:00 PM"
+      },
+      {
+        "end_time": "7:10:00 PM",
+        "start_time": "6:10:00 PM"
+      },
+      {
+        "end_time": "7:20:00 PM",
+        "start_time": "6:20:00 PM"
+      },
+      {
+        "end_time": "7:23:00 PM",
+        "start_time": "6:23:00 PM"
+      },
+      {
+        "end_time": "7:25:00 PM",
+        "start_time": "6:25:00 PM"
+      },
+      {
+        "end_time": "7:30:00 PM",
+        "start_time": "6:30:00 PM"
+      },
+      {
+        "end_time": "7:35:00 PM",
+        "start_time": "6:35:00 PM"
+      },
+      {
+        "end_time": "7:40:00 PM",
+        "start_time": "6:40:00 PM"
+      },
+      {
+        "end_time": "7:45:00 PM",
+        "start_time": "6:45:00 PM"
+      },
+      {
+        "end_time": "7:50:00 PM",
+        "start_time": "6:50:00 PM"
+      },
+      {
+        "end_time": "7:55:00 PM",
+        "start_time": "6:55:00 PM"
+      },
+      {
+        "end_time": "7:58:00 PM",
+        "start_time": "6:58:00 PM"
+      },
+      {
+        "end_time": "8:15:00 PM",
+        "start_time": "7:15:00 PM"
+      },
+      {
+        "end_time": "8:18:00 PM",
+        "start_time": "7:18:00 PM"
+      },
+      {
+        "end_time": "8:20:00 PM",
+        "start_time": "7:20:00 PM"
+      },
+      {
+        "end_time": "8:25:00 PM",
+        "start_time": "7:25:00 PM"
+      },
+      {
+        "end_time": "8:28:00 PM",
+        "start_time": "7:28:00 PM"
+      },
+      {
+        "end_time": "8:30:00 PM",
+        "start_time": "7:30:00 PM"
+      },
+      {
+        "end_time": "8:32:00 PM",
+        "start_time": "7:32:00 PM"
+      },
+      {
+        "end_time": "8:35:00 PM",
+        "start_time": "7:35:00 PM"
+      },
+      {
+        "end_time": "8:43:00 PM",
+        "start_time": "7:43:00 PM"
+      },
+      {
+        "end_time": "8:45:00 PM",
+        "start_time": "7:45:00 PM"
+      },
+      {
+        "end_time": "8:48:00 PM",
+        "start_time": "7:48:00 PM"
+      },
+      {
+        "end_time": "8:55:00 PM",
+        "start_time": "7:55:00 PM"
+      },
+      {
+        "end_time": "9:05:00 PM",
+        "start_time": "8:05:00 PM"
+      },
+      {
+        "end_time": "9:18:00 PM",
+        "start_time": "8:18:00 PM"
+      },
+      {
+        "end_time": "10:00:00 PM",
+        "start_time": "9:00:00 PM"
+      },
+      {
+        "end_time": "10:10:00 PM",
+        "start_time": "9:10:00 PM"
+      }
+    ],
+    "first_stop_lat": 28.6244278,
+    "last_stop_long": 77.222017,
+    "stop_details": [
+      {
+        "stop_lat": 28.6244278,
+        "stop_seq": 1,
+        "stop_long": 77.065317,
+        "stop_name": "UTTAM NAGAR TERMINAL"
+      },
+      {
+        "stop_lat": 28.62412,
+        "stop_seq": 2,
+        "stop_long": 77.0678483,
+        "stop_name": "A-1 JANAK PURI"
+      },
+      {
+        "stop_lat": 28.6213367,
+        "stop_seq": 3,
+        "stop_long": 77.070075,
+        "stop_name": "TILAK PUL"
+      },
+      {
+        "stop_lat": 28.619483,
+        "stop_seq": 4,
+        "stop_long": 77.073365,
+        "stop_name": "JIWAN PARK"
+      },
+      {
+        "stop_lat": 28.6179667,
+        "stop_seq": 5,
+        "stop_long": 77.0769567,
+        "stop_name": "JANAK PURI C-1"
+      },
+      {
+        "stop_lat": 28.6217329,
+        "stop_seq": 6,
+        "stop_long": 77.0843041,
+        "stop_name": "JANAK PURI C-2"
+      },
+      {
+        "stop_lat": 28.61372079,
+        "stop_seq": 7,
+        "stop_long": 77.08563466,
+        "stop_name": "JANAK PURI C-4E"
+      },
+      {
+        "stop_lat": 28.61335229,
+        "stop_seq": 8,
+        "stop_long": 77.08623815,
+        "stop_name": "JANAK PURI C-3"
+      },
+      {
+        "stop_lat": 28.616615,
+        "stop_seq": 9,
+        "stop_long": 77.0880417,
+        "stop_name": "JANAK PURI C-4H"
+      },
+      {
+        "stop_lat": 28.6155033,
+        "stop_seq": 10,
+        "stop_long": 77.09699,
+        "stop_name": "JANAK PURI C-5A"
+      },
+      {
+        "stop_lat": 28.611265,
+        "stop_seq": 11,
+        "stop_long": 77.0987317,
+        "stop_name": "DESU COLONY JANAK PURI"
+      },
+      {
+        "stop_lat": 28.6092083,
+        "stop_seq": 12,
+        "stop_long": 77.0995,
+        "stop_name": "SAGARPUR / VASHISTH PARK"
+      },
+      {
+        "stop_lat": 28.61060439,
+        "stop_seq": 13,
+        "stop_long": 77.10365407,
+        "stop_name": "D BLOCK JANAK PURI"
+      },
+      {
+        "stop_lat": 28.6139617,
+        "stop_seq": 14,
+        "stop_long": 77.1062167,
+        "stop_name": "LAJWANTI GARDEN"
+      },
+      {
+        "stop_lat": 28.6180717,
+        "stop_seq": 15,
+        "stop_long": 77.1121383,
+        "stop_name": "JUNK MARKET"
+      },
+      {
+        "stop_lat": 28.6221417,
+        "stop_seq": 16,
+        "stop_long": 77.1173467,
+        "stop_name": "GULAB HOUSE"
+      },
+      {
+        "stop_lat": 28.623685,
+        "stop_seq": 17,
+        "stop_long": 77.1184,
+        "stop_name": "BOBY SHOP"
+      },
+      {
+        "stop_lat": 28.6252333,
+        "stop_seq": 18,
+        "stop_long": 77.1198817,
+        "stop_name": "PS MAYAPURI"
+      },
+      {
+        "stop_lat": 28.62734495,
+        "stop_seq": 19,
+        "stop_long": 77.1218428,
+        "stop_name": "BE BLOCK HARI NAGAR"
+      },
+      {
+        "stop_lat": 28.62874988,
+        "stop_seq": 20,
+        "stop_long": 77.12298643,
+        "stop_name": "METAL FORGING"
+      },
+      {
+        "stop_lat": 28.6338233,
+        "stop_seq": 21,
+        "stop_long": 77.127655,
+        "stop_name": "GOVT. PRESS"
+      },
+      {
+        "stop_lat": 28.6369367,
+        "stop_seq": 22,
+        "stop_long": 77.12904,
+        "stop_name": "MAYAPURI DEPOT"
+      },
+      {
+        "stop_lat": 28.626475,
+        "stop_seq": 23,
+        "stop_long": 77.1349017,
+        "stop_name": "NARAYANA VIHAR"
+      },
+      {
+        "stop_lat": 28.6305333,
+        "stop_seq": 24,
+        "stop_long": 77.138135,
+        "stop_name": "PAYAL"
+      },
+      {
+        "stop_lat": 28.641185,
+        "stop_seq": 25,
+        "stop_long": 77.145165,
+        "stop_name": "LOHA MANDI"
+      },
+      {
+        "stop_lat": 28.644255,
+        "stop_seq": 26,
+        "stop_long": 77.1474583,
+        "stop_name": "BENTAX"
+      },
+      {
+        "stop_lat": 28.6479977,
+        "stop_seq": 27,
+        "stop_long": 77.15108531,
+        "stop_name": "NARAYANA DEPOT"
+      },
+      {
+        "stop_lat": 28.649793,
+        "stop_seq": 28,
+        "stop_long": 77.15363,
+        "stop_name": "PANDAV NAGAR"
+      },
+      {
+        "stop_lat": 28.6515647,
+        "stop_seq": 29,
+        "stop_long": 77.1581899,
+        "stop_name": "DTC CLY. SHADIPUR"
+      },
+      {
+        "stop_lat": 28.645178,
+        "stop_seq": 30,
+        "stop_long": 77.169097,
+        "stop_name": "WEST   PATEL NAGAR"
+      },
+      {
+        "stop_lat": 28.643935,
+        "stop_seq": 31,
+        "stop_long": 77.1714683,
+        "stop_name": "SOUTH PATEL NAGAR"
+      },
+      {
+        "stop_lat": 28.6432583,
+        "stop_seq": 32,
+        "stop_long": 77.1717483,
+        "stop_name": "EAST PATEL NAGAR"
+      },
+      {
+        "stop_lat": 28.64286,
+        "stop_seq": 33,
+        "stop_long": 77.179406,
+        "stop_name": "RAJENDER PLACE METRO STATION"
+      },
+      {
+        "stop_lat": 28.64338459,
+        "stop_seq": 34,
+        "stop_long": 77.18525123,
+        "stop_name": "TELEPHONE EXCHANGE"
+      },
+      {
+        "stop_lat": 28.6439567,
+        "stop_seq": 35,
+        "stop_long": 77.1890267,
+        "stop_name": "KAROL BAGH METRO STATION"
+      },
+      {
+        "stop_lat": 28.6448947,
+        "stop_seq": 36,
+        "stop_long": 77.1930337,
+        "stop_name": "SADHUWASVANI MARG"
+      },
+      {
+        "stop_lat": 28.64361028,
+        "stop_seq": 37,
+        "stop_long": 77.20098842,
+        "stop_name": "MEGHDOOT BHAWAN"
+      },
+      {
+        "stop_lat": 28.64593214,
+        "stop_seq": 38,
+        "stop_long": 77.20517602,
+        "stop_name": "RANI JHANSI ROAD"
+      },
+      {
+        "stop_lat": 28.64595038,
+        "stop_seq": 39,
+        "stop_long": 77.2072,
+        "stop_name": "P S PAHARGANJ"
+      },
+      {
+        "stop_lat": 28.64492525,
+        "stop_seq": 40,
+        "stop_long": 77.2098,
+        "stop_name": "PAHARGANJ DISPENSARY"
+      },
+      {
+        "stop_lat": 28.6415494,
+        "stop_seq": 41,
+        "stop_long": 77.2208123,
+        "stop_name": "AJMERI GATE"
+      },
+      {
+        "stop_lat": 28.642579,
+        "stop_seq": 42,
+        "stop_long": 77.2261188,
+        "stop_name": "P.S. KAMLA MARKET"
+      },
+      {
+        "stop_lat": 28.6407007,
+        "stop_seq": 43,
+        "stop_long": 77.2303321,
+        "stop_name": "ZAKIR HUSSSAIN COLLEGE"
+      },
+      {
+        "stop_lat": 28.64011313,
+        "stop_seq": 44,
+        "stop_long": 77.23558389,
+        "stop_name": "LNJP HOSPITAL"
+      },
+      {
+        "stop_lat": 28.6371367,
+        "stop_seq": 45,
+        "stop_long": 77.2412017,
+        "stop_name": "DELHI GATE"
+      },
+      {
+        "stop_lat": 28.6442983,
+        "stop_seq": 46,
+        "stop_long": 77.2405667,
+        "stop_name": "DARIYA GANJ"
+      },
+      {
+        "stop_lat": 28.650635,
+        "stop_seq": 47,
+        "stop_long": 77.2386317,
+        "stop_name": "JAMA MASJID"
+      },
+      {
+        "stop_lat": 28.655969,
+        "stop_seq": 48,
+        "stop_long": 77.236912,
+        "stop_name": "REDFORT"
+      },
+      {
+        "stop_lat": 28.6620517,
+        "stop_seq": 49,
+        "stop_long": 77.2348433,
+        "stop_name": "GPO ( Kashmeri Gate )"
+      },
+      {
+        "stop_lat": 28.6653483,
+        "stop_seq": 50,
+        "stop_long": 77.23015,
+        "stop_name": "GURU GOVIND IP UNIVERSITY"
+      },
+      {
+        "stop_lat": 28.6714567,
+        "stop_seq": 51,
+        "stop_long": 77.2311117,
+        "stop_name": "ISBT  KASHMIRI GATE"
+      },
+      {
+        "stop_lat": 28.6683217,
+        "stop_seq": 52,
+        "stop_long": 77.2251717,
+        "stop_name": "ISBT  NITYANAND MARG"
+      },
+      {
+        "stop_lat": 28.6662233,
+        "stop_seq": 53,
+        "stop_long": 77.222017,
+        "stop_name": "MORI GATE (T)"
+      }
+    ],
+    "last_stop_lat": 28.6662233,
+    "route_number": "753-D"
+  },
+  {
+    "route_distance": 28.55,
+    "route_description": "Mori Gate Terminal - Uttam Nagar Terminal",
+    "first_stop_long": 77.222017,
+    "running_frequency": [
+      {
+        "end_time": "7:05:00 AM",
+        "start_time": "6:05:00 AM"
+      },
+      {
+        "end_time": "7:10:00 AM",
+        "start_time": "6:10:00 AM"
+      },
+      {
+        "end_time": "7:25:00 AM",
+        "start_time": "6:25:00 AM"
+      },
+      {
+        "end_time": "7:40:00 AM",
+        "start_time": "6:40:00 AM"
+      },
+      {
+        "end_time": "7:50:00 AM",
+        "start_time": "6:50:00 AM"
+      },
+      {
+        "end_time": "8:00:00 AM",
+        "start_time": "7:00:00 AM"
+      },
+      {
+        "end_time": "8:10:00 AM",
+        "start_time": "7:10:00 AM"
+      },
+      {
+        "end_time": "8:20:00 AM",
+        "start_time": "7:20:00 AM"
+      },
+      {
+        "end_time": "8:30:00 AM",
+        "start_time": "7:30:00 AM"
+      },
+      {
+        "end_time": "8:40:00 AM",
+        "start_time": "7:40:00 AM"
+      },
+      {
+        "end_time": "8:50:00 AM",
+        "start_time": "7:50:00 AM"
+      },
+      {
+        "end_time": "9:00:00 AM",
+        "start_time": "8:00:00 AM"
+      },
+      {
+        "end_time": "9:10:00 AM",
+        "start_time": "8:10:00 AM"
+      },
+      {
+        "end_time": "9:18:00 AM",
+        "start_time": "8:18:00 AM"
+      },
+      {
+        "end_time": "9:20:00 AM",
+        "start_time": "8:20:00 AM"
+      },
+      {
+        "end_time": "9:25:00 AM",
+        "start_time": "8:25:00 AM"
+      },
+      {
+        "end_time": "9:38:00 AM",
+        "start_time": "8:38:00 AM"
+      },
+      {
+        "end_time": "9:45:00 AM",
+        "start_time": "8:45:00 AM"
+      },
+      {
+        "end_time": "9:50:00 AM",
+        "start_time": "8:50:00 AM"
+      },
+      {
+        "end_time": "9:55:00 AM",
+        "start_time": "8:55:00 AM"
+      },
+      {
+        "end_time": "9:58:00 AM",
+        "start_time": "8:58:00 AM"
+      },
+      {
+        "end_time": "10:05:00 AM",
+        "start_time": "9:05:00 AM"
+      },
+      {
+        "end_time": "10:15:00 AM",
+        "start_time": "9:15:00 AM"
+      },
+      {
+        "end_time": "10:18:00 AM",
+        "start_time": "9:18:00 AM"
+      },
+      {
+        "end_time": "10:33:00 AM",
+        "start_time": "9:33:00 AM"
+      },
+      {
+        "end_time": "10:55:00 AM",
+        "start_time": "9:55:00 AM"
+      },
+      {
+        "end_time": "11:20:00 AM",
+        "start_time": "10:20:00 AM"
+      },
+      {
+        "end_time": "11:48:00 AM",
+        "start_time": "10:48:00 AM"
+      },
+      {
+        "end_time": "11:50:00 AM",
+        "start_time": "10:50:00 AM"
+      },
+      {
+        "end_time": "12:00:00 PM",
+        "start_time": "11:00:00 AM"
+      },
+      {
+        "end_time": "1:30:00 PM",
+        "start_time": "12:30:00 PM"
+      },
+      {
+        "end_time": "1:50:00 PM",
+        "start_time": "12:50:00 PM"
+      },
+      {
+        "end_time": "1:55:00 PM",
+        "start_time": "12:55:00 PM"
+      },
+      {
+        "end_time": "2:10:00 PM",
+        "start_time": "1:10:00 PM"
+      },
+      {
+        "end_time": "3:05:00 PM",
+        "start_time": "2:05:00 PM"
+      },
+      {
+        "end_time": "3:18:00 PM",
+        "start_time": "2:18:00 PM"
+      },
+      {
+        "end_time": "3:50:00 PM",
+        "start_time": "2:50:00 PM"
+      },
+      {
+        "end_time": "4:02:00 PM",
+        "start_time": "3:02:00 PM"
+      },
+      {
+        "end_time": "4:10:00 PM",
+        "start_time": "3:10:00 PM"
+      },
+      {
+        "end_time": "4:20:00 PM",
+        "start_time": "3:20:00 PM"
+      },
+      {
+        "end_time": "4:33:00 PM",
+        "start_time": "3:33:00 PM"
+      },
+      {
+        "end_time": "4:40:00 PM",
+        "start_time": "3:40:00 PM"
+      },
+      {
+        "end_time": "4:50:00 PM",
+        "start_time": "3:50:00 PM"
+      },
+      {
+        "end_time": "5:00:00 PM",
+        "start_time": "4:00:00 PM"
+      },
+      {
+        "end_time": "5:03:00 PM",
+        "start_time": "4:03:00 PM"
+      },
+      {
+        "end_time": "5:08:00 PM",
+        "start_time": "4:08:00 PM"
+      },
+      {
+        "end_time": "5:10:00 PM",
+        "start_time": "4:10:00 PM"
+      },
+      {
+        "end_time": "5:20:00 PM",
+        "start_time": "4:20:00 PM"
+      },
+      {
+        "end_time": "5:28:00 PM",
+        "start_time": "4:28:00 PM"
+      },
+      {
+        "end_time": "5:35:00 PM",
+        "start_time": "4:35:00 PM"
+      },
+      {
+        "end_time": "5:38:00 PM",
+        "start_time": "4:38:00 PM"
+      },
+      {
+        "end_time": "5:58:00 PM",
+        "start_time": "4:58:00 PM"
+      },
+      {
+        "end_time": "6:15:00 PM",
+        "start_time": "5:15:00 PM"
+      },
+      {
+        "end_time": "6:18:00 PM",
+        "start_time": "5:18:00 PM"
+      },
+      {
+        "end_time": "6:22:00 PM",
+        "start_time": "5:22:00 PM"
+      },
+      {
+        "end_time": "6:33:00 PM",
+        "start_time": "5:33:00 PM"
+      },
+      {
+        "end_time": "6:45:00 PM",
+        "start_time": "5:45:00 PM"
+      },
+      {
+        "end_time": "6:53:00 PM",
+        "start_time": "5:53:00 PM"
+      },
+      {
+        "end_time": "6:58:00 PM",
+        "start_time": "5:58:00 PM"
+      },
+      {
+        "end_time": "7:05:00 PM",
+        "start_time": "6:05:00 PM"
+      },
+      {
+        "end_time": "7:30:00 PM",
+        "start_time": "6:30:00 PM"
+      },
+      {
+        "end_time": "7:40:00 PM",
+        "start_time": "6:40:00 PM"
+      },
+      {
+        "end_time": "7:50:00 PM",
+        "start_time": "6:50:00 PM"
+      },
+      {
+        "end_time": "8:00:00 PM",
+        "start_time": "7:00:00 PM"
+      },
+      {
+        "end_time": "8:10:00 PM",
+        "start_time": "7:10:00 PM"
+      },
+      {
+        "end_time": "8:23:00 PM",
+        "start_time": "7:23:00 PM"
+      },
+      {
+        "end_time": "8:50:00 PM",
+        "start_time": "7:50:00 PM"
+      },
+      {
+        "end_time": "9:20:00 PM",
+        "start_time": "8:20:00 PM"
+      },
+      {
+        "end_time": "9:40:00 PM",
+        "start_time": "8:40:00 PM"
+      },
+      {
+        "end_time": "9:45:00 PM",
+        "start_time": "8:45:00 PM"
+      },
+      {
+        "end_time": "9:58:00 PM",
+        "start_time": "8:58:00 PM"
+      },
+      {
+        "end_time": "10:00:00 PM",
+        "start_time": "9:00:00 PM"
+      },
+      {
+        "end_time": "10:10:00 PM",
+        "start_time": "9:10:00 PM"
+      },
+      {
+        "end_time": "10:20:00 PM",
+        "start_time": "9:20:00 PM"
+      },
+      {
+        "end_time": "10:30:00 PM",
+        "start_time": "9:30:00 PM"
+      },
+      {
+        "end_time": "10:40:00 PM",
+        "start_time": "9:40:00 PM"
+      }
+    ],
+    "first_stop_lat": 28.6662233,
+    "last_stop_long": 77.065317,
+    "stop_details": [
+      {
+        "stop_lat": 28.6662233,
+        "stop_seq": 1,
+        "stop_long": 77.222017,
+        "stop_name": "MORI GATE (T)"
+      },
+      {
+        "stop_lat": 28.6683217,
+        "stop_seq": 2,
+        "stop_long": 77.2251717,
+        "stop_name": "ISBT  NITYANAND MARG"
+      },
+      {
+        "stop_lat": 28.6714567,
+        "stop_seq": 3,
+        "stop_long": 77.2311117,
+        "stop_name": "ISBT  KASHMIRI GATE"
+      },
+      {
+        "stop_lat": 28.6652833,
+        "stop_seq": 4,
+        "stop_long": 77.2301933,
+        "stop_name": "GURU GOVIND IP UNIVERSITY"
+      },
+      {
+        "stop_lat": 28.6619517,
+        "stop_seq": 5,
+        "stop_long": 77.2345633,
+        "stop_name": "GPO ( Kashmeri Gate )"
+      },
+      {
+        "stop_lat": 28.655969,
+        "stop_seq": 6,
+        "stop_long": 77.236912,
+        "stop_name": "REDFORT"
+      },
+      {
+        "stop_lat": 28.650635,
+        "stop_seq": 7,
+        "stop_long": 77.2386317,
+        "stop_name": "JAMA MASJID"
+      },
+      {
+        "stop_lat": 28.6442983,
+        "stop_seq": 8,
+        "stop_long": 77.2405667,
+        "stop_name": "DARIYA GANJ"
+      },
+      {
+        "stop_lat": 28.639903,
+        "stop_seq": 9,
+        "stop_long": 77.237964,
+        "stop_name": "DELHI GATE"
+      },
+      {
+        "stop_lat": 28.64011313,
+        "stop_seq": 10,
+        "stop_long": 77.23558389,
+        "stop_name": "LNJP HOSPITAL"
+      },
+      {
+        "stop_lat": 28.6407007,
+        "stop_seq": 11,
+        "stop_long": 77.2303321,
+        "stop_name": "ZAKIR HUSSSAIN COLLEGE"
+      },
+      {
+        "stop_lat": 28.642579,
+        "stop_seq": 12,
+        "stop_long": 77.2261188,
+        "stop_name": "P.S. KAMLA MARKET"
+      },
+      {
+        "stop_lat": 28.6415494,
+        "stop_seq": 13,
+        "stop_long": 77.2208123,
+        "stop_name": "AJMERI GATE"
+      },
+      {
+        "stop_lat": 28.64492525,
+        "stop_seq": 14,
+        "stop_long": 77.2098,
+        "stop_name": "PAHARGANJ DISPENSARY"
+      },
+      {
+        "stop_lat": 28.64595038,
+        "stop_seq": 15,
+        "stop_long": 77.2072,
+        "stop_name": "P S PAHARGANJ"
+      },
+      {
+        "stop_lat": 28.64593214,
+        "stop_seq": 16,
+        "stop_long": 77.20517602,
+        "stop_name": "RANI JHANSI ROAD"
+      },
+      {
+        "stop_lat": 28.64361028,
+        "stop_seq": 17,
+        "stop_long": 77.20098842,
+        "stop_name": "MEGHDOOT BHAWAN"
+      },
+      {
+        "stop_lat": 28.6446733,
+        "stop_seq": 18,
+        "stop_long": 77.1933317,
+        "stop_name": "SADHUWASVANI MARG"
+      },
+      {
+        "stop_lat": 28.6439567,
+        "stop_seq": 19,
+        "stop_long": 77.1890267,
+        "stop_name": "KAROL BAGH METRO STATION"
+      },
+      {
+        "stop_lat": 28.6430933,
+        "stop_seq": 20,
+        "stop_long": 77.1816733,
+        "stop_name": "TELEPHONE EXCHANGE"
+      },
+      {
+        "stop_lat": 28.6423483,
+        "stop_seq": 21,
+        "stop_long": 77.1770933,
+        "stop_name": "RAJENDER PLACE METRO STATION"
+      },
+      {
+        "stop_lat": 28.6432583,
+        "stop_seq": 22,
+        "stop_long": 77.1717483,
+        "stop_name": "EAST PATEL NAGAR"
+      },
+      {
+        "stop_lat": 28.643935,
+        "stop_seq": 23,
+        "stop_long": 77.1714683,
+        "stop_name": "SOUTH PATEL NAGAR"
+      },
+      {
+        "stop_lat": 28.645178,
+        "stop_seq": 24,
+        "stop_long": 77.169097,
+        "stop_name": "WEST   PATEL NAGAR"
+      },
+      {
+        "stop_lat": 28.6515633,
+        "stop_seq": 25,
+        "stop_long": 77.15848,
+        "stop_name": "DTC CLY. SHADIPUR"
+      },
+      {
+        "stop_lat": 28.649793,
+        "stop_seq": 26,
+        "stop_long": 77.15363,
+        "stop_name": "PANDAV NAGAR"
+      },
+      {
+        "stop_lat": 28.6479977,
+        "stop_seq": 27,
+        "stop_long": 77.15108531,
+        "stop_name": "NARAYANA DEPOT"
+      },
+      {
+        "stop_lat": 28.6440817,
+        "stop_seq": 28,
+        "stop_long": 77.14737,
+        "stop_name": "BENTAX"
+      },
+      {
+        "stop_lat": 28.6414067,
+        "stop_seq": 29,
+        "stop_long": 77.1452767,
+        "stop_name": "LOHA MANDI"
+      },
+      {
+        "stop_lat": 28.631165,
+        "stop_seq": 30,
+        "stop_long": 77.1384067,
+        "stop_name": "PAYAL"
+      },
+      {
+        "stop_lat": 28.6267333,
+        "stop_seq": 31,
+        "stop_long": 77.1354033,
+        "stop_name": "NARAYANA VIHAR"
+      },
+      {
+        "stop_lat": 28.636596,
+        "stop_seq": 32,
+        "stop_long": 77.128495,
+        "stop_name": "MAYAPURI DEPOT"
+      },
+      {
+        "stop_lat": 28.634335,
+        "stop_seq": 33,
+        "stop_long": 77.127808,
+        "stop_name": "GOVT. PRESS"
+      },
+      {
+        "stop_lat": 28.628615,
+        "stop_seq": 34,
+        "stop_long": 77.122801,
+        "stop_name": "METAL FORGING"
+      },
+      {
+        "stop_lat": 28.62734495,
+        "stop_seq": 35,
+        "stop_long": 77.1218428,
+        "stop_name": "BE BLOCK HARI NAGAR"
+      },
+      {
+        "stop_lat": 28.6252333,
+        "stop_seq": 36,
+        "stop_long": 77.1198817,
+        "stop_name": "PS MAYAPURI"
+      },
+      {
+        "stop_lat": 28.623685,
+        "stop_seq": 37,
+        "stop_long": 77.1184,
+        "stop_name": "BOBY SHOP"
+      },
+      {
+        "stop_lat": 28.6220133,
+        "stop_seq": 38,
+        "stop_long": 77.1172033,
+        "stop_name": "GULAB HOUSE"
+      },
+      {
+        "stop_lat": 28.6180717,
+        "stop_seq": 39,
+        "stop_long": 77.1121383,
+        "stop_name": "JUNK MARKET"
+      },
+      {
+        "stop_lat": 28.6138133,
+        "stop_seq": 40,
+        "stop_long": 77.1061433,
+        "stop_name": "LAJWANTI GARDEN"
+      },
+      {
+        "stop_lat": 28.61060439,
+        "stop_seq": 41,
+        "stop_long": 77.10365407,
+        "stop_name": "D BLOCK JANAK PURI"
+      },
+      {
+        "stop_lat": 28.60898,
+        "stop_seq": 42,
+        "stop_long": 77.101005,
+        "stop_name": "SAGARPUR / VASHISTH PARK"
+      },
+      {
+        "stop_lat": 28.6110417,
+        "stop_seq": 43,
+        "stop_long": 77.098753,
+        "stop_name": "DESU COLONY JANAK PURI"
+      },
+      {
+        "stop_lat": 28.615048,
+        "stop_seq": 44,
+        "stop_long": 77.0973017,
+        "stop_name": "JANAK PURI C-5A"
+      },
+      {
+        "stop_lat": 28.616615,
+        "stop_seq": 45,
+        "stop_long": 77.0880417,
+        "stop_name": "JANAK PURI C-4H"
+      },
+      {
+        "stop_lat": 28.61335229,
+        "stop_seq": 46,
+        "stop_long": 77.08623815,
+        "stop_name": "JANAK PURI C-3"
+      },
+      {
+        "stop_lat": 28.61372079,
+        "stop_seq": 47,
+        "stop_long": 77.08563466,
+        "stop_name": "JANAK PURI C-4E"
+      },
+      {
+        "stop_lat": 28.6217917,
+        "stop_seq": 48,
+        "stop_long": 77.092055,
+        "stop_name": "JANAK PURI C-2"
+      },
+      {
+        "stop_lat": 28.6179967,
+        "stop_seq": 49,
+        "stop_long": 77.076805,
+        "stop_name": "JANAK PURI C-1"
+      },
+      {
+        "stop_lat": 28.619846,
+        "stop_seq": 50,
+        "stop_long": 77.0730417,
+        "stop_name": "JIWAN PARK"
+      },
+      {
+        "stop_lat": 28.6215167,
+        "stop_seq": 51,
+        "stop_long": 77.0697517,
+        "stop_name": "TILAK PUL"
+      },
+      {
+        "stop_lat": 28.6243917,
+        "stop_seq": 52,
+        "stop_long": 77.067815,
+        "stop_name": "A-1 JANAK PURI"
+      },
+      {
+        "stop_lat": 28.6244278,
+        "stop_seq": 53,
+        "stop_long": 77.065317,
+        "stop_name": "UTTAM NAGAR TERMINAL"
+      }
+    ],
+    "last_stop_lat": 28.6244278,
+    "route_number": "753-U"
+  }
+]
