@@ -22,7 +22,10 @@ def get_bus_status(request):
     neareststop = request.POST.get("neareststop")
     finalstop = request.POST.get("finalstop")
 
-    data = {"status":1, "datetime" : datetime, "neareststop" : neareststop, "finalstop" : finalstop,
+    data = {"status":1, 
+            "datetime" : datetime, 
+            "neareststop" : neareststop, 
+            "finalstop" : finalstop,
             }
     data = json.dumps(data)
     return HttpResponse(data,content_type= 'application/json')
