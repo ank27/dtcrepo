@@ -3,3 +3,5 @@ Django==1.11.2
 ez-setup==0.9
 pytz==2017.3
 whitenoise==3.0
+googlemaps
+DateTime
