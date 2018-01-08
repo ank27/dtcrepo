@@ -18,10 +18,11 @@ def home(request):
 
 
 def get_bus_status(request):
+    print("get bus status called")
     datetime = request.POST.get("datetime")
     neareststop = request.POST.get("neareststop")
     finalstop = request.POST.get("finalstop")
-
+    print("datetime ="+datetime)
     data = {"status":1, 
             "datetime" : datetime, 
             "neareststop" : neareststop, 
