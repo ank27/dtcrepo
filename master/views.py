@@ -18,9 +18,9 @@ def home(request):
 
 
 def get_bus_status(request):
-    datetime = request.POST.get('datetime')
-    neareststop = request.POST.get('neareststop')
-    finalstop = request.POST.get('finalstop')
+    datetime = request.POST.get("datetime")
+    neareststop = request.POST.get("neareststop")
+    finalstop = request.POST.get("finalstop")
 
     data = {"status":1, "datetime" : datetime, "neareststop" : neareststop, "finalstop" : finalstop}
     data = json.dumps(data)
