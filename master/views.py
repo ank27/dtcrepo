@@ -2,6 +2,7 @@ import json
 import logging
 import traceback
 from django.http.response import HttpResponse
+import requests
 
 logger = logging.getLogger(__name__)
 
@@ -19,10 +20,10 @@ def home(request):
 
 def get_bus_status(request):
     print("get bus status called")
-    datetime = request.POST.get("datetime")
-    neareststop = request.POST.get("neareststop")
-    finalstop = request.POST.get("finalstop")
-    print("datetime ="+datetime)
+    datetime = requests.POST.get("datetime","")
+    neareststop = requests.POST.get("neareststop","")
+    finalstop = requests.POST.get("finalstop","")
+    print 'datetime ='+str(datetime)
     data = {"status":1, 
             "datetime" : datetime, 
             "neareststop" : neareststop, 
