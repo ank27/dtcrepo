@@ -6,4 +6,3 @@ whitenoise==3.0
 googlemaps
 DateTime
 requests
-json
