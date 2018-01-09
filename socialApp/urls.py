@@ -9,5 +9,7 @@ from master import views
 
 urlpatterns = [
     url(r'^$', views.home),
+    url(r'^set_bus_location/$', views.set_bus_location),
+    url(r'^get_bus_location/$', views.get_bus_location),
     url(r'^get_bus_status/$', views.get_bus_status),
 ]

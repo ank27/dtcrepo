@@ -20,10 +20,11 @@ def home(request):
 
 def get_bus_status(request):
     print("get bus status called")
-    datetime = requests.POST.get("datetime","")
-    neareststop = requests.POST.get("neareststop","")
-    finalstop = requests.POST.get("finalstop","")
-    print 'datetime ='+str(datetime)
+    datetime = request.POST.get('datetime','')
+    neareststop = request.POST.get('neareststop','')
+    finalstop = request.POST.get('finalstop','')
+    # print 'datetime ='+str(request.POST['datetime'])
+    # print 'datetime old ='+str(datetime)
     data = {"status":1, 
             "datetime" : datetime, 
             "neareststop" : neareststop, 
@@ -31,3 +32,15 @@ def get_bus_status(request):
             }
     data = json.dumps(data)
     return HttpResponse(data,content_type= 'application/json')
+
+def set_bus_location(request):
+    lat = request.POST.get('lat')
+    lng = request.POST.get('lng')
+    data = {'lat': lat, 'lng' : lng}
+    with open("bus_location.json", "w") as jsonFile:
+    json.dump(data, jsonFile)
+
+def get_bus_location(request):
+    with open("replayScript.json", "r") as jsonFile:
+    data = json.load(jsonFile)
+    return HttpResponse(data, content_type='application/json')
