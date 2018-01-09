@@ -2,7 +2,7 @@ import googlemaps
 from datetime import datetime, timedelta, date
 import datetime as dt
 import json, sys
-
+import os
 
 class GoogleMaps():
     def __init__(self):
@@ -22,7 +22,9 @@ class Routes():
         self.input_final_stop = input_final_stop
         self.n_busses = n_busses
         try:
-            path = 'routes_dtc_cfati_new.json'
+            script_dir = os.path.dirname(__file__)
+            path = os.path.join(script_dir, '/routes_dtc_cfati_new.json')
+            # path = '/master/routes_dtc_cfati_new.json'
             print('path ='+path)
             data = json.load(open(path))
             print('data ='+str(data))

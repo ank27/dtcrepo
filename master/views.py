@@ -5,6 +5,7 @@ from django.http.response import HttpResponse, JsonResponse
 import requests
 from main import Routes
 import io
+import os
 logger = logging.getLogger(__name__)
 
 
@@ -51,11 +52,11 @@ def set_bus_location(request):
         lng = request.GET.get('lng','')
         print('lat '+str(lat) + ' & lng '+str(lng))
         data = {"lat" : lat, "lng" : lng}
-        x = json.dumps(data, ensure_ascii=False)
-        print("json ="+x)
-        with io.open('busData.json', 'w') as f:
-            print("file open")
-            f.write(unicode(x, 'UTF-8'))
+        script_dir = os.path.dirname(__file__)
+        print("script_dir ="+script_dir)
+        file_path = os.path.join(script_dir, '/busData.json')
+        with open(file_path, 'w') as outfile:
+            json.dump(data, outfile)
         sendData = {'status':'success'}
         return HttpResponse(data,content_type= 'application/json')
 
