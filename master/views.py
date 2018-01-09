@@ -39,6 +39,8 @@ def set_bus_location(request):
     data = {'lat': lat, 'lng' : lng}
     with open("bus_location.json", "w") as jsonFile:
     json.dump(data, jsonFile)
+    sendData = {'status':'success'}
+    return HttpResponse(data,content_type= 'application/json')
 
 def get_bus_location(request):
     with open("replayScript.json", "r") as jsonFile:
