@@ -23,7 +23,8 @@ class Routes():
         self.n_busses = n_busses
         try:
             script_dir = os.path.dirname(__file__)
-            path = os.path.join(script_dir, '/routes_dtc_cfati_new.json')
+            print("script ="+script_dir)
+            path = os.path.join(script_dir, "routes_dtc_cfati_new.json")
             # path = '/master/routes_dtc_cfati_new.json'
             print('path ='+path)
             data = json.load(open(path))

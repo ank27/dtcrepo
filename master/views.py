@@ -22,9 +22,9 @@ def home(request):
 
 def get_bus_status(request):
     if request.method == 'GET':
-        input_time = request.GET.get('datetime','')
-        input_stop = request.GET.get('neareststop','')
-        input_final_stop = request.GET.get('finalstop','')
+        input_time = request.GET.get('datetime','07.01.2018 09:04:42')
+        input_stop = request.GET.get('neareststop','turkman gate')
+        input_final_stop = request.GET.get('finalstop','ganesh nagar')
         number_of_buses = 1
         print("input_time ="+str(input_time)+ "&input_stop ="+input_stop + "&input_final_stop ="+input_final_stop)
 
@@ -53,8 +53,8 @@ def set_bus_location(request):
         print('lat '+str(lat) + ' & lng '+str(lng))
         data = {"lat" : lat, "lng" : lng}
         script_dir = os.path.dirname(__file__)
-        print("script_dir ="+script_dir)
-        file_path = os.path.join(script_dir, '/busData.json')
+        file_path = os.path.join(script_dir, 'busData.json')
+        print("file_path ="+file_path)
         with open(file_path, 'w') as outfile:
             json.dump(data, outfile)
         sendData = {'status':'success'}
@@ -62,8 +62,13 @@ def set_bus_location(request):
 
 
 def get_bus_location(request):
-    with open("replayScript.json", "r") as jsonFile:
+    script_dir = os.path.dirname(__file__)
+    file_path = os.path.join(script_dir, 'busData.json')
+    with open(file_path, "r") as jsonFile:
         data = json.load(jsonFile)
-        return HttpResponse(data, content_type='application/json')
+        lat = data['lat']
+        lng = data['lng']
+        responseData = {'lat' : lat, 'lng' : lng}
+        return JsonResponse(responseData)
 
 
