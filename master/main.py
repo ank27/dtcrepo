@@ -22,7 +22,9 @@ class Routes():
         self.n_busses = n_busses
         try:
             path = 'routes_dtc_cfati_new.json'
+            print('path ='+path)
             data = json.load(open(path))
+            print('data ='+str(data))
             data_U = data[0] # FORWARD ROUTE
             data_D = data[1]  # FORWARD ROUTE
             self.data = self.get_route_type(data_U, data_D)
@@ -51,6 +53,8 @@ class Routes():
             A = (data_D['first_stop_lat'], data_D['first_stop_long'])
             B = (data_D['last_stop_lat'], data_D['last_stop_long'])
             route = data_D
+
+        print('route ='+str(route))
         return route
 
     def validate_variables(self):

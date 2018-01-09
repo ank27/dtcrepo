@@ -1,7 +1,7 @@
 from django.conf.urls import include, url
 
-from django.contrib import admin
-admin.autodiscover()
+# from django.contrib import admin
+# admin.autodiscover()
 from master import views
 # Examples:
 # url(r'^$', 'gettingstarted.views.home', name='home'),

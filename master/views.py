@@ -20,17 +20,30 @@ def home(request):
 
 def get_bus_status(request):
     print("get bus status called")
+    body = json.load(request.body)
+    print('body ='+ str(body))
+
+    return JsonResponse(request.body);
+    if request.method == 'POST':
+        print("params POST="+str(request.POST))
+        print("params ="+str(request.POST))
+    print('data ='+str(request.data))
+    params = dict(request.POST)
+    print('params ='+str(params))
     input_time = request.POST.get('datetime','07.01.2018 09:04:42')
     input_stop = request.POST.get('neareststop','turkman gate')
     input_final_stop = request.POST.get('finalstop','ganesh nagar')
     number_of_buses = 1
     # print 'datetime ='+str(request.POST['datetime'])
     # print 'datetime old ='+str(datetime)
+    print("input_time ="+str(input_time)+ "&input_stop ="+input_stop + "&input_final_stop ="+input_final_stop)
 
     obj = Routes(input_time, input_stop, input_final_stop, number_of_buses)
+    print("obj ="+str(obj))
     variables = obj.validate_variables()    
+    print("variables ="+str(variables))
     result_data = obj.get_route_information(variables)
-    print("result_data ="+result_data)
+    print("result_data ="+str(result_data))
 
     data = {"status":1, 
             "datetime" : input_time, 
