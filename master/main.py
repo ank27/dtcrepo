@@ -29,7 +29,7 @@ class Routes():
             # path = '/master/routes_dtc_cfati_new.json'
             print('path ='+path)
             data = json.load(open(path))
-            print('data ='+str(data))
+            # print('data ='+str(data))
             data_U = data[0] # FORWARD ROUTE
             data_D = data[1]  # FORWARD ROUTE
             self.data = self.get_route_type(data_U, data_D)

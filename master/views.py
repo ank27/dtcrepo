@@ -26,15 +26,16 @@ def get_bus_status(request):
         input_stop = request.GET.get('neareststop','turkman gate')
         input_final_stop = request.GET.get('finalstop','ganesh nagar')
         number_of_buses = 1
-        print("input_time ="+str(input_time)+ "&input_stop ="+input_stop + "&input_final_stop ="+input_final_stop)
+        print("input_time ="+str(input_time)+ "&neareststop ="+input_stop + "&finalstop ="+input_final_stop)
 
         obj = Routes(str(input_time), input_stop, input_final_stop, number_of_buses)
-        print("obj ="+str(obj))
+        # print("obj ="+str(obj))
         variables = obj.validate_variables()    
-        print("variables ="+str(variables))
+        # print("variables ="+str(variables))
         result_data = obj.get_route_information(variables)
         print("result_data ="+str(result_data))
-        data = json.dumps(result_data)
+        jsonViewResult = {'result' : result_data}
+        data = json.dumps(jsonViewResult)
         return HttpResponse(data,content_type= 'application/json')
     data = {"status":0}
     return HttpResponse(data,content_type= 'application/json')
