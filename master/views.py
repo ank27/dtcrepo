@@ -3,7 +3,7 @@ import logging
 import traceback
 from django.http.response import HttpResponse, JsonResponse
 import requests
-from main import Routes
+# from main import Routes
 import io
 import os
 logger = logging.getLogger(__name__)
@@ -28,13 +28,14 @@ def get_bus_status(request):
         number_of_buses = 1
         print("input_time ="+str(input_time)+ "&neareststop ="+input_stop + "&finalstop ="+input_final_stop)
 
-        obj = Routes(str(input_time), input_stop, input_final_stop, number_of_buses)
-        # print("obj ="+str(obj))
-        variables = obj.validate_variables()    
-        # print("variables ="+str(variables))
-        result_data = obj.get_route_information(variables)
-        print("result_data ="+str(result_data))
-        jsonViewResult = {'result' : result_data}
+        # obj = Routes(str(input_time), input_stop, input_final_stop, number_of_buses)
+        # # print("obj ="+str(obj))
+        # variables = obj.validate_variables()    
+        # # print("variables ="+str(variables))
+        # result_data = obj.get_route_information(variables)
+        # print("result_data ="+str(result_data))
+        # jsonViewResult = {'result' : result_data}
+        jsonViewResult = {'result' : 'result_data'}
         data = json.dumps(jsonViewResult)
         return HttpResponse(data,content_type= 'application/json')
     data = {"status":0}
