@@ -5,7 +5,7 @@ from django.http.response import HttpResponse, JsonResponse
 import requests
 import sys
 sys.path.append('/master')
-from main.py import Routes
+from main import Routes
 import io
 import os
 logger = logging.getLogger(__name__)
