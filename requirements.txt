@@ -1,8 +1,13 @@
+certifi==2017.11.5
+chardet==3.0.4
+DateTime==4.2
 dj-database-url==0.4.2
-django==1.11.2
+Django==1.11.2
 ez-setup==0.9
+googlemaps==2.5.1
+idna==2.6
 pytz==2017.3
+requests==2.18.4
+urllib3==1.22
 whitenoise==3.0
-googlemaps
-DateTime
-requests
+zope.interface==4.4.3
