@@ -3,9 +3,7 @@ import logging
 import traceback
 from django.http.response import HttpResponse, JsonResponse
 import requests
-import sys
-sys.path.append('/master')
-from main import Routes
+from master.main import Routes
 import io
 import os
 logger = logging.getLogger(__name__)
