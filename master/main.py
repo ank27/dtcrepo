@@ -3,6 +3,7 @@ from datetime import datetime, timedelta, date
 import datetime as dt
 import json, sys
 import os
+import time
 
 class GoogleMaps():
     def __init__(self):
@@ -64,7 +65,9 @@ class Routes():
     def validate_variables(self):
         try:
             dt_obj = datetime.strptime(self.user_input_time, '%d.%m.%Y %H:%M:%S')
-            user_input_time = float(dt_obj.timestamp())
+            print("dt_obj ="+str(dt_obj))
+            user_input_time = float(time.mktime(dt_obj.timetuple()))
+        # user_input_time = float(dt_obj.timestamp())
         except AttributeError:
             print('Datetime variable is not in the desired for format.'
                   'The desired format is "%d.%m.%Y %H:%M:%S"')

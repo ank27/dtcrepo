@@ -22,25 +22,19 @@ def home(request):
 
 def get_bus_status(request):
     if request.method == 'GET':
-        input_time = request.GET.get('datetime','07.01.2018 09:04:42')
+        input_time = request.GET.get('datetime','07.01.2018 06:38:42')
         input_stop = request.GET.get('neareststop','turkman gate')
         input_final_stop = request.GET.get('finalstop','ganesh nagar')
         number_of_buses = 1
         print("input_time ="+str(input_time)+ "&input_stop ="+input_stop + "&input_final_stop ="+input_final_stop)
 
-        obj = Routes(input_time, input_stop, input_final_stop, number_of_buses)
+        obj = Routes(str(input_time), input_stop, input_final_stop, number_of_buses)
         print("obj ="+str(obj))
         variables = obj.validate_variables()    
         print("variables ="+str(variables))
         result_data = obj.get_route_information(variables)
         print("result_data ="+str(result_data))
-
-        data = {"status":1, 
-                "datetime" : input_time, 
-                "neareststop" : input_stop, 
-                "finalstop" : input_final_stop,
-                }
-        data = json.dumps(data)
+        data = json.dumps(result_data)
         return HttpResponse(data,content_type= 'application/json')
     data = {"status":0}
     return HttpResponse(data,content_type= 'application/json')
