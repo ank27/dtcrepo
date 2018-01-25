@@ -22,7 +22,7 @@ def home(request):
 
 def get_bus_status(request):
     if request.method == 'GET':
-        input_time = request.GET.get('datetime','25-01-2018 12.45.29')
+        input_time = request.GET.get('datetime','25.01.2018 12.45.29')
         input_stop = request.GET.get('neareststop','kamla market')
         input_final_stop = request.GET.get('finalstop','trilok puri 31-block')
         number_of_buses = 1
